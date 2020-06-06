@@ -1,0 +1,49 @@
+[Adblock Plus 2.0]
+! Checksum: RW/QudyvEPmfX2nVXTJ+AA
+! Version: 20180922225329
+! Title: 自定义过滤规则
+! Last modified: 2018-09-22 22:53:29
+! Expires: 1 days (update frequency)
+! Homepage: https://github.com/lincenying/common-tools
+! Licence: https://github.com/lincenying/common-tools
+!
+!-----------------------General advert blocking filters-----------------------!
+! start
+
+.adskeeper.co.uk
+.carbonads.com
+.doubleclick.net
+.exdynsrv.com
+115.com##.banner-top
+@@||sentry.io/$document
+@@||shi.huamijie.com/$document
+@@||v.youku.com/$document
+a.liuzhi520.com
+admin.qidian.qq.com
+bqq.gtimg.com
+c.cnzz.com
+ce69817852420b7fea.com
+dn-growing.qbox.me
+google-analytics.com
+hm.baidu.com
+ig.sc-bjx.com
+js.tongji.linezing.com
+moradu.com
+nl.notice.iqiyi.com
+nl.rcd.iqiyi.com
+sinaimg.cn/large/79a9a3bbgw1eyvrgzn5o4j218g0uidqa.jpg
+static1.115cdn.net/static/public/*
+szcert.ebs.org.cn
+t7z.cupid.iqiyi.com
+tajs.qq.com
+wp.qiye.qq.com
+www.huya.com##DIV[class="match_nav "]
+www.javbus.com##.ad-table
+www.javbus2.com##.ad-table
+www.laqu.com##DIV[class="applyshare"]
+www.laqu.com##DIV[class="myfr advert-move"]
+www.laqu.com##DIV[class="new_index_exclusive"]
+wx.shike8888.com##DIV[id="slider"]
+4399.com##DIV[class="top"]
+
+! end

@@ -1,0 +1,39 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "description": "public tools",
+  "author": "lincenying &lt;lincenying@qq.com&gt;",
+  "license": "MIT",
+  "scripts": {
+    "server": "nodemon server.js",
+    "server_inspect": "nodemon --inspect server.js",
+    "lint": "eslint --ext .jsx,.js,.vue ./ --fix"
+  },
+  "dependencies": {
+    "locutus": "^2.0.11",
+    "lodash.get": "^4.4.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint-config-lcy-js": "^3.0.9",
+    "husky": "^3.1.0",
+    "lint-staged": "^9.5.0",
+    "shelljs": "^0.8.3"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "data/*"
+    ]
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix",
+      "git add"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  }
+}
