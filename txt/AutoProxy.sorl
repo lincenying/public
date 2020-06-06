@@ -1,16 +1,19 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2019/10/29
+; Date: 2020/06/06
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; start
 
+
 *.18board.com
 *.18p2p.com
 *.1dmp.io
+*.55dfh.site
 *.85porn.com
 *.aaanr.com
 *.abcyun.top
+*.acggw.com
 *.adobe.com
 *.adobeoobe.com
 *.afreecatv.com
@@ -22,6 +25,7 @@
 *.alloyui.com
 *.aloha-editor.org
 *.alohaeditor.org
+*.amazon.co.jp
 *.amazonaws.com
 *.android.com
 *.apk-downloaders.com
@@ -30,11 +34,15 @@
 *.appspot.com
 *.atlassian.com
 *.atom.io
+*.avfun16.com
 *.avmo.pw
+*.avmoo.com
 *.awesomes.cn
 *.babeljs.io
 *.baidu-design.github.io
+*.bandwagonhost.com
 *.bit.ly
+*.bkjia.com
 *.blogblog.com
 *.blogger.com
 *.blogimg.jp
@@ -44,6 +52,7 @@
 *.booth.pm
 *.bootstrapcdn.com
 *.bsjiepai.com
+*.btsook.xyz
 *.btspread.com
 *.buefy.org
 *.bulma.io
@@ -55,6 +64,8 @@
 *.chromeextensions.org
 *.chromium.org
 *.chuantu.biz
+*.ck101.com
+*.clickme.net
 *.cloudflare.com
 *.cloudfront.net
 *.cms-twdigitalassets.com
@@ -72,6 +83,7 @@
 *.dlapk.org
 *.dmm.co.jp
 *.docker.com
+*.dotwe.org
 *.doub.io
 *.dropbox.com
 *.dropboxapi.com
@@ -95,6 +107,7 @@
 *.fc2.com
 *.feng666.cc
 *.fens.me
+*.fh4g.com
 *.file01.com
 *.firepad.io
 *.flickr.com
@@ -105,6 +118,7 @@
 *.freeimage.us
 *.fulisuo.com
 *.g.co
+*.gcogle-analytics.com
 *.getlantern.org
 *.getmdl.io
 *.getoutline.org
@@ -137,22 +151,28 @@
 *.hpplus.jp
 *.htmllion.com
 *.ift.tt
+*.ihompy.com
 *.ihostimg.com
 *.im-apps.net
+*.imagebam.com
+*.imageshack.com
 *.imagetwist.com
 *.imagevenue.com
 *.img169.com
 *.imgchili.net
 *.imgme.me
+*.imgur.com
 *.instagram.com
 *.interface.club
 *.ionic.io
 *.ionicframework.com
 *.ipoock.com
+*.iyuanqi.com
 *.jaredreich.com
 *.javbus.com
 *.javbus.info
 *.javbus2.com
+*.javccmo.net
 *.javcdn.pw
 *.javmoo.xyz
 *.jeka.by
@@ -162,6 +182,7 @@
 *.jquerytools.org
 *.jsfiddle.net
 *.jshell.net
+*.json-generator.com
 *.keepass.info
 *.ldshow.com
 *.libraries.io
@@ -171,6 +192,7 @@
 *.livedoor.jp
 *.livedoor.net
 *.loveav.org
+*.lsmpic.com
 *.macloo.github.io
 *.mag.moe
 *.mail.edu.rs
@@ -189,6 +211,7 @@
 *.mozilla.net
 *.mozilla.org
 *.mtoo.org
+*.mxpnl.com
 *.my365.tw
 *.myjs.tw
 *.naver.com
@@ -212,11 +235,15 @@
 *.photobucket.com
 *.pingdom.net
 *.pinimg.com
+*.pinsedashi.com
 *.pixiv.net
 *.plot.ly
 *.plurk.com
+*.porn87.com
+*.pornhub.com
 *.postimg.org
 *.ppx16.com
+*.predatorrat.com
 *.proxifier.com
 *.pximg.net
 *.quasar.dev
@@ -229,9 +256,12 @@
 *.resilio.com
 *.rsg.sc
 *.s.xxx
+*.sbcnnet.com
 *.sednax.com
+*.sehuatang.org
 *.sentry-cdn.com
 *.sentry.io
+*.sex8.cc
 *.sexinsex.net
 *.sexinsex.us
 *.sexpixbox.com
@@ -241,9 +271,14 @@
 *.shadowsu.net
 *.shapebootstrap.net
 *.sharepoint.com
+*.shousibaocai.com
 *.slideshare.net
+*.sougouwiki.com
 *.sourceforge.net
 *.sourcegear.com
+*.sousi8.com
+*.south-plus.net
+*.spritejs.org
 *.spydebugger.com
 *.ss-link.com
 *.ssrbase.com
@@ -254,8 +289,10 @@
 *.sstatic.net
 *.st-hatena.com
 *.stackoverflow.com
+*.steamcommunity.com
 *.steampowered.com
 *.stripe.com
+*.swag.run
 *.sysu.ed
 *.t.co
 *.t.me
@@ -275,11 +312,14 @@
 *.tonytemplates.com
 *.torrentkitty.org
 *.torrentkittyjx.org
+*.ttlang.com
+*.tu2266.xyz
 *.tumblr.com
 *.twimg.com
 *.twitter.com
 *.typekit.net
 *.u9un.com
+*.ucdok.com
 *.ultraimg.com
 *.umblr.com
 *.uniformjs.com
@@ -291,6 +331,7 @@
 *.vuejs.github.io
 *.vuejs.org
 *.webtype.com
+*.weex.help
 *.wikipedia.org
 *.win7en.com
 *.wisevpn.net
@@ -300,6 +341,7 @@
 *.wrapbootstrap.com
 *.www.googleapis.com
 *.xiami.la
+*.xn--gmqz83awjh.com
 *.xoxco.com
 *.xrado.github.io
 *.yadi.sk
@@ -316,5 +358,8 @@
 *.ytimg.com
 *.yuese3.com
 *.yumenosora.co.jp
+*.zhuabamm.com
+174.138.175.178
+68.168.16.153
 
 ; end
