@@ -1,16 +1,17 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2020/06/06
+; Date: 2020/10/05
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; start
-
 
 *.18board.com
 *.18p2p.com
 *.1dmp.io
 *.55dfh.site
 *.85porn.com
+*.888173.net
+*.91cdn.xyz
 *.aaanr.com
 *.abcyun.top
 *.acggw.com
@@ -32,9 +33,11 @@
 *.apksmart.com
 *.appollo.jp
 *.appspot.com
+*.assdrty.com
 *.atlassian.com
 *.atom.io
 *.avfun16.com
+*.avmask.com
 *.avmo.pw
 *.avmoo.com
 *.awesomes.cn
@@ -105,6 +108,7 @@
 *.fb.me
 *.fbcdn.net
 *.fc2.com
+*.fc2blog.us
 *.feng666.cc
 *.fens.me
 *.fh4g.com
@@ -112,6 +116,7 @@
 *.firepad.io
 *.flickr.com
 *.flyzy2005.com
+*.fontawesome.com
 *.fonts.googleapis.com
 *.fontsquirrel.com
 *.fosshub.com
@@ -184,6 +189,7 @@
 *.jshell.net
 *.json-generator.com
 *.keepass.info
+*.kissjav.com
 *.ldshow.com
 *.libraries.io
 *.linkedin.com
@@ -210,6 +216,7 @@
 *.mongoosejs.com
 *.mozilla.net
 *.mozilla.org
+*.msauth.net
 *.mtoo.org
 *.mxpnl.com
 *.my365.tw
@@ -217,6 +224,7 @@
 *.naver.com
 *.netcdn.space
 *.netdna-ssl.com
+*.netlify.app
 *.nodejs.org
 *.nosqlbooster.com
 *.npmjs.com
@@ -259,12 +267,15 @@
 *.sbcnnet.com
 *.sednax.com
 *.sehuatang.org
+*.semantic-ui.com
 *.sentry-cdn.com
 *.sentry.io
 *.sex8.cc
 *.sexinsex.net
 *.sexinsex.us
 *.sexpixbox.com
+*.sexq.net
+*.seyeye16.com
 *.sfx.ms
 *.shadowsocks.org
 *.shadowsu.com
@@ -289,11 +300,14 @@
 *.sstatic.net
 *.st-hatena.com
 *.stackoverflow.com
+*.static-file.com
 *.steamcommunity.com
 *.steampowered.com
 *.stripe.com
 *.swag.run
+*.symfony.com
 *.sysu.ed
+*.t-nani.co.kr
 *.t.co
 *.t.me
 *.t66y.com
@@ -304,6 +318,8 @@
 *.tellapart.com
 *.themeelite.com
 *.themifycloud.com
+*.tianshi2.com
+*.tianshie.com
 *.tineye.com
 *.tiny.cc
 *.tinymce.com
@@ -312,6 +328,7 @@
 *.tonytemplates.com
 *.torrentkitty.org
 *.torrentkittyjx.org
+*.tsecy.com
 *.ttlang.com
 *.tu2266.xyz
 *.tumblr.com
@@ -330,6 +347,7 @@
 *.vincentgarreau.com
 *.vuejs.github.io
 *.vuejs.org
+*.wahas.com
 *.webtype.com
 *.weex.help
 *.wikipedia.org
@@ -359,7 +377,9 @@
 *.yuese3.com
 *.yumenosora.co.jp
 *.zhuabamm.com
+174.127.195.187
 174.138.175.178
 68.168.16.153
+raw.githubusercontent.com
 
 ; end
