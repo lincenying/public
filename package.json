@@ -10,15 +10,15 @@
     "lint": "eslint --ext .jsx,.js,.vue ./ --fix"
   },
   "dependencies": {
-    "locutus": "^2.0.11",
+    "locutus": "^2.0.14",
     "lodash.get": "^4.4.2"
   },
   "devDependencies": {
-    "babel-eslint": "^10.0.3",
-    "eslint-config-lcy-js": "^3.0.9",
-    "husky": "^3.1.0",
-    "lint-staged": "^9.5.0",
-    "shelljs": "^0.8.3"
+    "babel-eslint": "^10.1.0",
+    "eslint-config-lcy-js": "^3.1.1",
+    "husky": "^4.3.0",
+    "lint-staged": "^10.4.0",
+    "shelljs": "^0.8.4"
   },
   "nodemonConfig": {
     "ignore": [
