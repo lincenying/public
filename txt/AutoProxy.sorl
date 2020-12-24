@@ -1,13 +1,15 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2020/11/18
+; Date: 2020/12/24
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; start
 
+
 *.18board.com
 *.18p2p.com
 *.1dmp.io
+*.1password.com
 *.55dfh.site
 *.85porn.com
 *.888173.net
@@ -16,6 +18,7 @@
 *.abcyun.top
 *.acggw.com
 *.adblockplus.org
+*.adguard.com
 *.adobe.com
 *.adobeoobe.com
 *.afreecatv.com
@@ -33,8 +36,10 @@
 *.apk-downloaders.com
 *.apksmart.com
 *.appollo.jp
+*.appsformac.net
 *.appspot.com
 *.assdrty.com
+*.atl-paas.net
 *.atlassian.com
 *.atom.io
 *.avfun16.com
@@ -63,6 +68,7 @@
 *.bulma.io
 *.caniuse.com
 *.cdninstagram.com
+*.cdpn.io
 *.cedexis-radar.net
 *.cheapchinavpn.com
 *.chrome-extension-downloader.com
@@ -82,11 +88,16 @@
 *.coffcer.github.io
 *.conemu.github.io
 *.consensu.org
+*.coreui.io
 *.cosholic.jp
 *.crwdcntrl.net
+*.csb.app
+*.csp.withgoogle.com
 *.cursors-4u.net
+*.day.js.org
 *.defunkt.io
 *.devdocs.io
+*.disqus.com
 *.dlapk.org
 *.dmm.co.jp
 *.docker.com
@@ -97,6 +108,8 @@
 *.dropboxstatic.com
 *.dsqnw.net
 *.dtscdn.com
+*.dubox.com
+*.duboxcdn.com
 *.edgefonts.net
 *.eggjs.org
 *.ensighten.com
@@ -117,6 +130,8 @@
 *.fens.me
 *.fh4g.com
 *.file01.com
+*.firebase.googleapis.com
+*.firebaseinstallations.googleapis.com
 *.firepad.io
 *.flickr.com
 *.flyzy2005.com
@@ -134,6 +149,7 @@
 *.getsentry.net
 *.ggpht.com
 *.git.io
+*.githack.com
 *.github-camo.com
 *.github.com
 *.github.io
@@ -176,6 +192,7 @@
 *.interface.club
 *.ionic.io
 *.ionicframework.com
+*.ip.sb
 *.ipoock.com
 *.iyuanqi.com
 *.jaredreich.com
@@ -190,9 +207,11 @@
 *.joelambert.co.uk
 *.jquery.com
 *.jquerytools.org
+*.jsdelivr.com
 *.jsfiddle.net
 *.jshell.net
 *.json-generator.com
+*.kanjiantu.com
 *.keepass.info
 *.kissjav.com
 *.ldshow.com
@@ -202,9 +221,13 @@
 *.livedoor.com
 *.livedoor.jp
 *.livedoor.net
+*.loli.net
 *.loveav.org
 *.lsmpic.com
+*.macbed.com
+*.macdownload.org
 *.macloo.github.io
+*.macupdate.com
 *.madou3.asia
 *.mag.moe
 *.mail.edu.rs
@@ -239,6 +262,7 @@
 *.nuxtjs.org
 *.nvshen.kr
 *.okoala.github.io
+*.onesignal.com
 *.oracle.com
 *.osoeco.xyz
 *.over-blog.net
@@ -252,6 +276,7 @@
 *.pingdom.net
 *.pinimg.com
 *.pinsedashi.com
+*.pinterest.com
 *.pixiv.net
 *.plot.ly
 *.plurk.com
@@ -292,6 +317,7 @@
 *.sharepoint.com
 *.shousibaocai.com
 *.slideshare.net
+*.sm.ms
 *.sougouwiki.com
 *.sourceforge.net
 *.sourcegear.com
@@ -308,6 +334,7 @@
 *.sstatic.net
 *.st-hatena.com
 *.stackoverflow.com
+*.statcounter.com
 *.static-file.com
 *.steamcommunity.com
 *.steampowered.com
@@ -326,6 +353,7 @@
 *.tellapart.com
 *.themeelite.com
 *.themifycloud.com
+*.think2011.net
 *.tianshi2.com
 *.tianshie.com
 *.tineye.com
@@ -388,5 +416,7 @@
 174.127.195.187
 174.138.175.178
 68.168.16.153
+raw.githubusercontent.com
+sharp.pixelplumbing.com
 
 ; end
