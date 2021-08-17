@@ -1,22 +1,28 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2021/04/14
+; Date: 2021/08/17
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; start
 
+
+*.07081f.com
+*.18acg.net
 *.18board.com
 *.18p2p.com
 *.1dmp.io
 *.1password.com
 *.55dfh.site
+*.5ay.xyz
 *.85porn.com
 *.888173.net
 *.91cdn.xyz
+*.9527acg.net
 *.98qwewqq.xyz
 *.aaanr.com
 *.abcyun.top
 *.acggw.com
+*.acghgame.net
 *.acgyyg.com
 *.adblockplus.org
 *.adguard.com
@@ -24,6 +30,7 @@
 *.adobeoobe.com
 *.afreecatv.com
 *.aishipin.net
+*.aitu888.com
 *.ajax.googleapis.com
 *.akamaihd.net
 *.akamaized.net
@@ -35,6 +42,7 @@
 *.amazonaws.com
 *.android.com
 *.apache.org
+*.api.netlify.com
 *.apk-downloaders.com
 *.apksmart.com
 *.appjpg.com
@@ -54,6 +62,7 @@
 *.babeljs.io
 *.baidu-design.github.io
 *.bandwagonhost.com
+*.bilibili208.cc
 *.bit.ly
 *.bkjia.com
 *.blogblog.com
@@ -82,6 +91,7 @@
 *.chuantu.biz
 *.ck101.com
 *.clickme.net
+*.cloudflare-terms-of-service-abuse.com
 *.cloudflare.com
 *.cloudfront.net
 *.cms-twdigitalassets.com
@@ -100,8 +110,10 @@
 *.css-tricks.com
 *.cunhua.help
 *.cursors-4u.net
+*.cxyzjd.com
 *.day.js.org
 *.defunkt.io
+*.dev.to
 *.devdocs.io
 *.discord.com
 *.disqus.com
@@ -163,8 +175,11 @@
 *.github.io
 *.githubapp.com
 *.githubassets.com
+*.githubmemory.com
 *.githubusercontent.com
+*.glitch.com
 *.goo.gl
+*.goo.gle
 *.google.ca
 *.google.cn
 *.google.co.jp
@@ -182,6 +197,7 @@
 *.hakim.se
 *.hatena.ne.jp
 *.hgzhubo.com
+*.honus.club
 *.hpplus.jp
 *.htmllion.com
 *.huapuzi.com
@@ -223,6 +239,7 @@
 *.kanjiantu.com
 *.keepass.info
 *.kissjav.com
+*.lbry.tv
 *.ldshow.com
 *.libraries.io
 *.linkedin.com
@@ -249,6 +266,8 @@
 *.mediafire.com
 *.medium.com
 *.meltingice.net
+*.mikuclub.org
+*.mimoes.com
 *.minetheme.com
 *.mixpanel.com
 *.mo688.net
@@ -275,6 +294,7 @@
 *.nuxtjs.org
 *.nvshen.kr
 *.oath.com
+*.odysee.com
 *.okoala.github.io
 *.onesignal.com
 *.oracle.com
@@ -287,7 +307,9 @@
 *.pcdaili.com
 *.phncdn.com
 *.photobucket.com
+*.picacomic.com
 *.picnew.org
+*.pigbus.com
 *.pingdom.net
 *.pingseli.com
 *.pinimg.com
@@ -339,6 +361,7 @@
 *.shopee.co.id
 *.shopeemobile.com
 *.shousibaocai.com
+*.situge.me
 *.slideshare.net
 *.sm.ms
 *.sougouwiki.com
@@ -361,6 +384,7 @@
 *.static-file.com
 *.steamcommunity.com
 *.steampowered.com
+*.steamworkshopdownloader.io
 *.stripe.com
 *.swag.run
 *.sxeimg.com
@@ -387,12 +411,14 @@
 *.tinypng.com
 *.toastrjs.com
 *.tonytemplates.com
+*.tooooh.com
 *.torrentkitty.org
 *.torrentkittyjx.org
 *.toup.net
 *.tsecy.com
 *.ttlang.com
 *.tu2266.xyz
+*.tucahuand.com
 *.tuchuang188.com
 *.tumblr.com
 *.twimg.com
@@ -411,6 +437,7 @@
 *.v2ray.com
 *.vimeo.com
 *.vincentgarreau.com
+*.viptuji.com
 *.vuejs.github.io
 *.vuejs.org
 *.wahas.com
@@ -418,6 +445,7 @@
 *.weex.help
 *.wikipedia.org
 *.win7en.com
+*.windicss.org
 *.wisevpn.net
 *.woothemes.com
 *.wordpress.com
@@ -444,11 +472,14 @@
 *.yuese3.com
 *.yueyou.ren
 *.yumenosora.co.jp
+*.zacg8.com
 *.zhuabamm.com
 174.127.195.187
 174.138.175.178
 68.168.16.153
 raw.githubusercontent.com
+redux-toolkit.js.org
+share4uspace.com
 sharp.pixelplumbing.com
 
 ; end
