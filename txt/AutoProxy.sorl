@@ -1,10 +1,9 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2021/08/17
+; Date: 2021/12/25
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; start
-
 
 *.07081f.com
 *.18acg.net
@@ -14,11 +13,15 @@
 *.1password.com
 *.55dfh.site
 *.5ay.xyz
+*.5dmcity.cn
+*.5dmcity.com
 *.85porn.com
 *.888173.net
 *.91cdn.xyz
 *.9527acg.net
+*.9527tuchuang.com
 *.98qwewqq.xyz
+*.99danji.com
 *.aaanr.com
 *.abcyun.top
 *.acggw.com
@@ -34,12 +37,14 @@
 *.ajax.googleapis.com
 *.akamaihd.net
 *.akamaized.net
+*.aklmtt.net
 *.alibaba.github.io
 *.alloyui.com
 *.aloha-editor.org
 *.alohaeditor.org
 *.amazon.co.jp
 *.amazonaws.com
+*.amplitude.com
 *.android.com
 *.apache.org
 *.api.netlify.com
@@ -49,6 +54,7 @@
 *.appollo.jp
 *.appsformac.net
 *.appspot.com
+*.artstation.com
 *.assdrty.com
 *.atl-paas.net
 *.atlassian.com
@@ -63,6 +69,7 @@
 *.baidu-design.github.io
 *.bandwagonhost.com
 *.bilibili208.cc
+*.bilibilizb.com
 *.bit.ly
 *.bkjia.com
 *.blogblog.com
@@ -75,6 +82,7 @@
 *.bootstrapcdn.com
 *.bsjiepai.com
 *.bt369.net
+*.btos.pw
 *.btsook.xyz
 *.btspread.com
 *.buefy.org
@@ -84,6 +92,8 @@
 *.cdpn.io
 *.cedexis-radar.net
 *.cheapchinavpn.com
+*.chobit.cc
+*.chobits.xyz
 *.chrome-extension-downloader.com
 *.chrome.com
 *.chromeextensions.org
@@ -115,9 +125,12 @@
 *.defunkt.io
 *.dev.to
 *.devdocs.io
+*.deviantart.com
+*.deviantart.net
 *.discord.com
 *.disqus.com
 *.dlapk.org
+*.dlsite.jp
 *.dmm.co.jp
 *.docker.com
 *.dotwe.org
@@ -135,6 +148,7 @@
 *.epiceditor.com
 *.erog.fr
 *.eslint.org
+*.eyny.com
 *.facebook.com
 *.facebook.net
 *.faceks.com
@@ -162,6 +176,7 @@
 *.freeimage.us
 *.fulisuo.com
 *.g.co
+*.gamebanana.com
 *.gcogle-analytics.com
 *.getlantern.org
 *.getmdl.io
@@ -193,10 +208,13 @@
 *.gradle.org
 *.graphql.org
 *.gravatar.com
+*.gssprt.jp
 *.gstatic.com
 *.hakim.se
 *.hatena.ne.jp
+*.hejiba.net
 *.hgzhubo.com
+*.hjbfq.com
 *.honus.club
 *.hpplus.jp
 *.htmllion.com
@@ -210,6 +228,7 @@
 *.imagetwist.com
 *.imagevenue.com
 *.img169.com
+*.imgbed.xyz
 *.imgchili.net
 *.imgme.me
 *.imgur.com
@@ -218,6 +237,7 @@
 *.ionic.io
 *.ionicframework.com
 *.ip.sb
+*.ipfs.io
 *.ipoock.com
 *.iyuanqi.com
 *.jaredreich.com
@@ -239,8 +259,11 @@
 *.kanjiantu.com
 *.keepass.info
 *.kissjav.com
+*.kongquehai.org
+*.laowang.vip
 *.lbry.tv
 *.ldshow.com
+*.legado.cc
 *.libraries.io
 *.linkedin.com
 *.live.com
@@ -251,6 +274,7 @@
 *.lolitaf.com
 *.lolitafashion.cn
 *.loveav.org
+*.loverslab.com
 *.lsmpic.com
 *.lululu.cc
 *.macbed.com
@@ -258,6 +282,7 @@
 *.macloo.github.io
 *.macupdate.com
 *.madou3.asia
+*.madouqu.com
 *.mag.moe
 *.mail.edu.rs
 *.maps.googleapis.com
@@ -265,13 +290,19 @@
 *.mathjax.org
 *.mediafire.com
 *.medium.com
+*.medvip4u.com
+*.mega.co.nz
+*.mega.io
+*.mega.nz
 *.meltingice.net
 *.mikuclub.org
 *.mimoes.com
 *.minetheme.com
 *.mixpanel.com
+*.mmtaotu.net
 *.mo688.net
 *.mo777.net
+*.moepoipoi.com
 *.mongodb.org
 *.mongoosejs.com
 *.moxtu.cc
@@ -291,6 +322,7 @@
 *.nosqlbooster.com
 *.npmjs.com
 *.npmjs.org
+*.nr-data.net
 *.nuxtjs.org
 *.nvshen.kr
 *.oath.com
@@ -307,6 +339,7 @@
 *.pcdaili.com
 *.phncdn.com
 *.photobucket.com
+*.photoscape.org
 *.picacomic.com
 *.picnew.org
 *.pigbus.com
@@ -316,6 +349,7 @@
 *.pinsedashi.com
 *.pinterest.com
 *.pixiv.net
+*.pixxxels.cc
 *.plot.ly
 *.plurk.com
 *.pnpm.js.org
@@ -327,9 +361,11 @@
 *.predatorrat.com
 *.proxifier.com
 *.pximg.net
+*.qpic.ws
 *.quasar.dev
 *.quilljs.com
 *.qwewqa3w.com
+*.ravenjs.com
 *.rawgit.com
 *.reactstarter.com
 *.reacttraining.com
@@ -339,7 +375,9 @@
 *.redditstatic.com
 *.resilio.com
 *.rsg.sc
+*.rysuanaaser.com
 *.s.xxx
+*.s3.amazonaws.com
 *.sbcnnet.com
 *.sednax.com
 *.sehuatang.org
@@ -361,9 +399,11 @@
 *.shopee.co.id
 *.shopeemobile.com
 *.shousibaocai.com
+*.signal.org
 *.situge.me
 *.slideshare.net
 *.sm.ms
+*.snapchat.com
 *.sougouwiki.com
 *.sourceforge.net
 *.sourcegear.com
@@ -384,6 +424,7 @@
 *.static-file.com
 *.steamcommunity.com
 *.steampowered.com
+*.steamstatic.com
 *.steamworkshopdownloader.io
 *.stripe.com
 *.swag.run
@@ -403,6 +444,7 @@
 *.themeelite.com
 *.themifycloud.com
 *.think2011.net
+*.threejs.org
 *.tianshi2.com
 *.tianshie.com
 *.tineye.com
@@ -430,10 +472,13 @@
 *.ultraimg.com
 *.umblr.com
 *.umei.cc
+*.undertow.club
 *.uniformjs.com
 *.unpkg.com
+*.upload.cc
 *.usercdn.com
 *.v-charts.js.org
+*.v2ex.com
 *.v2ray.com
 *.vimeo.com
 *.vincentgarreau.com
@@ -443,6 +488,7 @@
 *.wahas.com
 *.webtype.com
 *.weex.help
+*.wellbia.com
 *.wikipedia.org
 *.win7en.com
 *.windicss.org
@@ -452,6 +498,11 @@
 *.wp.com
 *.wrapbootstrap.com
 *.www.googleapis.com
+*.xacg.de
+*.xacg.fun
+*.xacg.me
+*.xhangxian.com
+*.xher.net
 *.xiami.la
 *.xn--gmqz83awjh.com
 *.xoxco.com
@@ -460,6 +511,7 @@
 *.yadi.sk
 *.yandex.ru
 *.yarnpkg.com
+*.yesebbs.com
 *.yimuhe.com
 *.yimuhe.net
 *.youav.com
@@ -474,9 +526,11 @@
 *.yumenosora.co.jp
 *.zacg8.com
 *.zhuabamm.com
+1.eyny.com
 174.127.195.187
 174.138.175.178
 68.168.16.153
+eyny.com
 raw.githubusercontent.com
 redux-toolkit.js.org
 share4uspace.com
