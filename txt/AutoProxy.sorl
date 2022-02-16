@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2021/12/25
+; Date: 2022/02/16
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; start
@@ -54,6 +54,7 @@
 *.appollo.jp
 *.appsformac.net
 *.appspot.com
+*.arca.live
 *.artstation.com
 *.assdrty.com
 *.atl-paas.net
@@ -103,6 +104,7 @@
 *.clickme.net
 *.cloudflare-terms-of-service-abuse.com
 *.cloudflare.com
+*.cloudflareinsights.com
 *.cloudfront.net
 *.cms-twdigitalassets.com
 *.cnstrc.com
@@ -128,6 +130,7 @@
 *.deviantart.com
 *.deviantart.net
 *.discord.com
+*.discordapp.com
 *.disqus.com
 *.dlapk.org
 *.dlsite.jp
@@ -138,6 +141,7 @@
 *.dropbox.com
 *.dropboxapi.com
 *.dropboxstatic.com
+*.dropboxusercontent.com
 *.dsqnw.net
 *.dtscdn.com
 *.dubox.com
@@ -177,6 +181,7 @@
 *.fulisuo.com
 *.g.co
 *.gamebanana.com
+*.gamer.com.tw
 *.gcogle-analytics.com
 *.getlantern.org
 *.getmdl.io
@@ -247,6 +252,7 @@
 *.javccmo.net
 *.javcdn.pw
 *.javmoo.xyz
+*.jdmm.top
 *.jeka.by
 *.jiepaibang.com
 *.joelambert.co.uk
@@ -256,6 +262,7 @@
 *.jsfiddle.net
 *.jshell.net
 *.json-generator.com
+*.kakao.com
 *.kanjiantu.com
 *.keepass.info
 *.kissjav.com
@@ -314,10 +321,12 @@
 *.mxpnl.com
 *.my365.tw
 *.myjs.tw
+*.namu.la
 *.naver.com
 *.netcdn.space
 *.netdna-ssl.com
 *.netlify.app
+*.nexusmods.com
 *.nodejs.org
 *.nosqlbooster.com
 *.npmjs.com
@@ -334,8 +343,11 @@
 *.over-blog.net
 *.ow.ly
 *.packagist.org
+*.parastorage.com
 *.parsleyjs.org
 *.pastebin.com
+*.patreon.com
+*.patreonusercontent.com
 *.pcdaili.com
 *.phncdn.com
 *.photobucket.com
@@ -348,8 +360,10 @@
 *.pinimg.com
 *.pinsedashi.com
 *.pinterest.com
+*.pixelplumbing.com
 *.pixiv.net
 *.pixxxels.cc
+*.pixxxels.org
 *.plot.ly
 *.plurk.com
 *.pnpm.js.org
@@ -379,6 +393,7 @@
 *.s.xxx
 *.s3.amazonaws.com
 *.sbcnnet.com
+*.schaken-mods.com
 *.sednax.com
 *.sehuatang.org
 *.semantic-ui.com
@@ -411,6 +426,8 @@
 *.south-plus.net
 *.spritejs.org
 *.spydebugger.com
+*.squarespace-cdn.com
+*.squarespace.com
 *.ss-link.com
 *.ssrbase.com
 *.ssrbase.icu
@@ -493,6 +510,7 @@
 *.win7en.com
 *.windicss.org
 *.wisevpn.net
+*.wixstatic.com
 *.woothemes.com
 *.wordpress.com
 *.wp.com
@@ -525,15 +543,14 @@
 *.yueyou.ren
 *.yumenosora.co.jp
 *.zacg8.com
+*.zendesk.com
 *.zhuabamm.com
 1.eyny.com
 174.127.195.187
 174.138.175.178
 68.168.16.153
 eyny.com
-raw.githubusercontent.com
 redux-toolkit.js.org
 share4uspace.com
-sharp.pixelplumbing.com
 
 ; end

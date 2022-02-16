@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
 ! Checksum: RW/QudyvEPmfX2nVXTJ+AA
-! Version: 20211029092543
+! Version: 20211029093458
 ! Title: 自定义过滤规则
-! Last modified: 2021-10-29 09:25:43
+! Last modified: 2021-10-29 09:34:58
 ! Expires: 1 days (update frequency)
-! Homepage: https://github.com/lincenying/common-tools
-! Licence: https://github.com/lincenying/common-tools
+! Homepage: https://github.com/lincenying/public
+! Licence: https://github.com/lincenying/public
 !
 !-----------------------General advert blocking filters-----------------------!
 ! start
@@ -17,7 +17,6 @@
 .exdynsrv.com
 115.com##.banner-top
 4399.com##DIV[class="top"]
-4399.com##DIV[class="top"]
 @@http://img599.net
 @@||macwk.com/$document
 @@||sentry.io/$document
@@ -25,32 +24,28 @@
 @@||t66y.com/*^$document
 @@||uncensoredleak.com/$document
 @@||v.youku.com/$document
-@@||v.youku.com/$document
 @@||www.iviewui.com/$document
 @@||www.t66y.com/$document
 @@||www.zxcs.me/$document
 @@||xclient.info/$document
 a.liuzhi520.com
 admin.qidian.qq.com
+ajax.lug.ustc.edu.cn/ajax/libs/jquery/3.4.1/jquery.min.js
+assets.tumblr.com/client/prod/standalone/photoset-iframe/index.build.js
 bqq.gtimg.com
+btsow.casa/app/bts/View/js/app.min.js
 c.cnzz.com
 ce69817852420b7fea.com
 dn-growing.qbox.me
 google-analytics.com
 hm.baidu.com
-https://ajax.lug.ustc.edu.cn/ajax/libs/jquery/3.4.1/jquery.min.js
-https://assets.tumblr.com/client/prod/standalone/photoset-iframe/index.build.js
-https://btsow.casa/app/bts/View/js/app.min.js
-https://img.tujigu.com/css/jquery.lazyload.js
-https://live.bilibili.com/activity/live-activity-battle/*
-https://live.bilibili.com/p/html/live-lottery/*
-https://my.hellobar.com/*
-https://static.hotjar.com/*
-https://www.googletagmanager.com/*
-https://www.taofake.com/static/top_taobao/js/sendareatb.js?v=201911051035
 ig.sc-bjx.com
+img.tujigu.com/css/jquery.lazyload.js
 js.tongji.linezing.com
+live.bilibili.com/activity/live-activity-battle/*
+live.bilibili.com/p/html/live-lottery/*
 moradu.com
+my.hellobar.com/*
 nl.notice.iqiyi.com
 nl.rcd.iqiyi.com
 ping.chinaz.com##DIV[class="fr topTsCenter"]
@@ -59,6 +54,7 @@ ping.chinaz.com##DIV[id="loc"]
 ping.chinaz.com##DIV[id="toolsIntro"]
 ping.chinaz.com##DIV[id="topTxt"]
 sinaimg.cn/large/79a9a3bbgw1eyvrgzn5o4j218g0uidqa.jpg
+static.hotjar.com/*
 static1.115cdn.net/static/public/*
 szcert.ebs.org.cn
 t7z.cupid.iqiyi.com
@@ -66,18 +62,17 @@ tajs.qq.com
 wp.qiye.qq.com
 www.biquge.se##.box_con>.box_con
 www.douyu.com##DIV[id="js-player-guessgame"]
-www.gm016.com##IFRAME[src="https://www.gm016.com/js/g.htm"]
-www.gm016.com##IFRAME[src="https://www.gm016.com/js/q.htm"]
+www.gm016.com/js/*.htm
+www.googletagmanager.com/*
 www.huya.com##DIV[class="match_nav "]
 www.javbus.com##.ad-table
 www.javbus2.com##.ad-table
 www.laqu.com##DIV[class="applyshare"]
-www.laqu.com##DIV[class="applyshare"]
-www.laqu.com##DIV[class="myfr advert-move"]
 www.laqu.com##DIV[class="myfr advert-move"]
 www.laqu.com##DIV[class="new_index_exclusive"]
 www.macz.com##SECTION[class="newest-recommend"]
 www.macz.com##SECTION[class="sec-imgs clearfix"]
+www.taofake.com/static/top_taobao/js/sendareatb.js
 wx.shike8888.com##DIV[id="slider"]
 x6k.com##.index-ad
 
