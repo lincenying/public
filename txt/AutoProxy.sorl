@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2022/02/16
+; Date: 2022/05/11
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; start
@@ -21,6 +21,7 @@
 *.9527acg.net
 *.9527tuchuang.com
 *.98qwewqq.xyz
+*.98tuch.net
 *.99danji.com
 *.aaanr.com
 *.abcyun.top
@@ -88,6 +89,7 @@
 *.btspread.com
 *.buefy.org
 *.bulma.io
+*.bxdsp.me
 *.caniuse.com
 *.cdninstagram.com
 *.cdpn.io
@@ -124,6 +126,8 @@
 *.cursors-4u.net
 *.cxyzjd.com
 *.day.js.org
+*.daymarrworkshop.com
+*.dcinside.com
 *.defunkt.io
 *.dev.to
 *.devdocs.io
@@ -131,6 +135,7 @@
 *.deviantart.net
 *.discord.com
 *.discordapp.com
+*.discordapp.net
 *.disqus.com
 *.dlapk.org
 *.dlsite.jp
@@ -167,6 +172,7 @@
 *.fens.me
 *.fh4g.com
 *.file01.com
+*.filestackapi.com
 *.firebase.googleapis.com
 *.firebaseinstallations.googleapis.com
 *.firebaseio.com
@@ -188,6 +194,7 @@
 *.getoutline.org
 *.getsentry.net
 *.ggpht.com
+*.ghisler.com
 *.git.io
 *.githack.com
 *.github-camo.com
@@ -227,6 +234,7 @@
 *.ift.tt
 *.ihompy.com
 *.ihostimg.com
+*.iloveimg.com
 *.im-apps.net
 *.imagebam.com
 *.imageshack.com
@@ -309,6 +317,7 @@
 *.mmtaotu.net
 *.mo688.net
 *.mo777.net
+*.modbooru.com
 *.moepoipoi.com
 *.mongodb.org
 *.mongoosejs.com
@@ -326,6 +335,7 @@
 *.netcdn.space
 *.netdna-ssl.com
 *.netlify.app
+*.nexus-cdn.com
 *.nexusmods.com
 *.nodejs.org
 *.nosqlbooster.com
@@ -333,6 +343,7 @@
 *.npmjs.org
 *.nr-data.net
 *.nuxtjs.org
+*.nvidia.com
 *.nvshen.kr
 *.oath.com
 *.odysee.com
@@ -444,6 +455,7 @@
 *.steamstatic.com
 *.steamworkshopdownloader.io
 *.stripe.com
+*.sunkeumjeong.com
 *.swag.run
 *.sxeimg.com
 *.symfony.com
@@ -500,6 +512,7 @@
 *.vimeo.com
 *.vincentgarreau.com
 *.viptuji.com
+*.visualstudio.com
 *.vuejs.github.io
 *.vuejs.org
 *.wahas.com
@@ -510,6 +523,7 @@
 *.win7en.com
 *.windicss.org
 *.wisevpn.net
+*.wixsite.com
 *.wixstatic.com
 *.woothemes.com
 *.wordpress.com
@@ -523,6 +537,7 @@
 *.xher.net
 *.xiami.la
 *.xn--gmqz83awjh.com
+*.xn--o39as5y.nz
 *.xoxco.com
 *.xrado.github.io
 *.xsimg.xyz
@@ -550,6 +565,7 @@
 174.138.175.178
 68.168.16.153
 eyny.com
+raw.githubusercontent.com
 redux-toolkit.js.org
 share4uspace.com
 
