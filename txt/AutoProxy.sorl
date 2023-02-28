@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2022/05/11
+; Date: 2023/02/28
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; start
@@ -23,6 +23,7 @@
 *.98qwewqq.xyz
 *.98tuch.net
 *.99danji.com
+*.9damaogame.net
 *.aaanr.com
 *.abcyun.top
 *.acggw.com
@@ -33,6 +34,7 @@
 *.adobe.com
 *.adobeoobe.com
 *.afreecatv.com
+*.aimei66.com
 *.aishipin.net
 *.aitu888.com
 *.ajax.googleapis.com
@@ -47,6 +49,7 @@
 *.amazonaws.com
 *.amplitude.com
 *.android.com
+*.anonfiles.com
 *.apache.org
 *.api.netlify.com
 *.apk-downloaders.com
@@ -65,10 +68,13 @@
 *.avmask.com
 *.avmo.pw
 *.avmoo.com
+*.avxyz.xyz
 *.awacgg3.vip
 *.awesomes.cn
+*.b-cdn.net
 *.babeljs.io
 *.baidu-design.github.io
+*.bandicam.com
 *.bandwagonhost.com
 *.bilibili208.cc
 *.bilibilizb.com
@@ -80,12 +86,18 @@
 *.blogspot.com
 *.blogspot.jp
 *.blogsys.jp
+*.boosty.to
 *.booth.pm
 *.bootstrapcdn.com
 *.bsjiepai.com
 *.bt369.net
 *.btos.pw
+*.btrabbit.cc
 *.btsook.xyz
+*.btsow.beauty
+*.btsow.cfd
+*.btsow.mom
+*.btsow.sbs
 *.btspread.com
 *.buefy.org
 *.bulma.io
@@ -119,12 +131,14 @@
 *.coreui.io
 *.cosholic.jp
 *.crwdcntrl.net
+*.crx4chrome.com
 *.csb.app
 *.csp.withgoogle.com
 *.css-tricks.com
 *.cunhua.help
 *.cursors-4u.net
 *.cxyzjd.com
+*.daumcdn.net
 *.day.js.org
 *.daymarrworkshop.com
 *.dcinside.com
@@ -134,9 +148,11 @@
 *.deviantart.com
 *.deviantart.net
 *.discord.com
+*.discord.gg
 *.discordapp.com
 *.discordapp.net
 *.disqus.com
+*.disquscdn.com
 *.dlapk.org
 *.dlsite.jp
 *.dmm.co.jp
@@ -153,6 +169,7 @@
 *.duboxcdn.com
 *.edgefonts.net
 *.eggjs.org
+*.element-plus.org
 *.ensighten.com
 *.epiceditor.com
 *.erog.fr
@@ -187,7 +204,9 @@
 *.fulisuo.com
 *.g.co
 *.gamebanana.com
+*.gamer-mods.ru
 *.gamer.com.tw
+*.gcbt.xyz
 *.gcogle-analytics.com
 *.getlantern.org
 *.getmdl.io
@@ -215,6 +234,7 @@
 *.googleblog.com
 *.googlecode.com
 *.googlesource.com
+*.googletagmanager.com
 *.googleusercontent.com
 *.googlevideo.com
 *.gradle.org
@@ -228,6 +248,7 @@
 *.hgzhubo.com
 *.hjbfq.com
 *.honus.club
+*.hotjar.com
 *.hpplus.jp
 *.htmllion.com
 *.huapuzi.com
@@ -245,6 +266,7 @@
 *.imgchili.net
 *.imgme.me
 *.imgur.com
+*.immyneedscake.com
 *.instagram.com
 *.interface.club
 *.ionic.io
@@ -260,6 +282,7 @@
 *.javccmo.net
 *.javcdn.pw
 *.javmoo.xyz
+*.javstore.net
 *.jdmm.top
 *.jeka.by
 *.jiepaibang.com
@@ -267,14 +290,17 @@
 *.jquery.com
 *.jquerytools.org
 *.jsdelivr.com
+*.jsdelivr.net
 *.jsfiddle.net
 *.jshell.net
 *.json-generator.com
 *.kakao.com
+*.kakaocdn.net
 *.kanjiantu.com
 *.keepass.info
 *.kissjav.com
 *.kongquehai.org
+*.kxlme.com
 *.laowang.vip
 *.lbry.tv
 *.ldshow.com
@@ -301,6 +327,7 @@
 *.mag.moe
 *.mail.edu.rs
 *.maps.googleapis.com
+*.maronato.dev
 *.marumise.com
 *.mathjax.org
 *.mediafire.com
@@ -314,6 +341,7 @@
 *.mimoes.com
 *.minetheme.com
 *.mixpanel.com
+*.miyun.pro
 *.mmtaotu.net
 *.mo688.net
 *.mo777.net
@@ -346,14 +374,18 @@
 *.nvidia.com
 *.nvshen.kr
 *.oath.com
+*.octotree.io
 *.odysee.com
+*.office.net
 *.okoala.github.io
+*.omtrdc.net
 *.onesignal.com
 *.oracle.com
 *.osoeco.xyz
 *.over-blog.net
 *.ow.ly
 *.packagist.org
+*.pages.dev
 *.parastorage.com
 *.parsleyjs.org
 *.pastebin.com
@@ -377,11 +409,15 @@
 *.pixxxels.org
 *.plot.ly
 *.plurk.com
+*.pmzmqru.cn
 *.pnpm.js.org
 *.popper.js.org
+*.porn5f.com
+*.porn5f5.xyz
 *.porn87.com
 *.pornhub.com
 *.postimg.org
+*.postman.co
 *.ppx16.com
 *.predatorrat.com
 *.proxifier.com
@@ -389,6 +425,7 @@
 *.qpic.ws
 *.quasar.dev
 *.quilljs.com
+*.quora.com
 *.qwewqa3w.com
 *.ravenjs.com
 *.rawgit.com
@@ -398,9 +435,12 @@
 *.reddit.com
 *.redditmedia.com
 *.redditstatic.com
+*.rektasmarket.com
 *.resilio.com
+*.rlcdn.com
 *.rsg.sc
 *.rysuanaaser.com
+*.s-microsoft.com
 *.s.xxx
 *.s3.amazonaws.com
 *.sbcnnet.com
@@ -426,10 +466,12 @@
 *.shopeemobile.com
 *.shousibaocai.com
 *.signal.org
+*.sis001.com
 *.situge.me
 *.slideshare.net
 *.sm.ms
 *.snapchat.com
+*.snyk-widget.herokuapp.com
 *.sougouwiki.com
 *.sourceforge.net
 *.sourcegear.com
@@ -450,12 +492,14 @@
 *.stackoverflow.com
 *.statcounter.com
 *.static-file.com
+*.staticblitz.com
 *.steamcommunity.com
 *.steampowered.com
 *.steamstatic.com
 *.steamworkshopdownloader.io
 *.stripe.com
 *.sunkeumjeong.com
+*.surmon.me
 *.swag.run
 *.sxeimg.com
 *.symfony.com
@@ -472,10 +516,12 @@
 *.tellapart.com
 *.themeelite.com
 *.themifycloud.com
+*.theporndude.com
 *.think2011.net
 *.threejs.org
 *.tianshi2.com
 *.tianshie.com
+*.tiktok.com
 *.tineye.com
 *.tiny.cc
 *.tinymce.com
@@ -486,9 +532,11 @@
 *.torrentkitty.org
 *.torrentkittyjx.org
 *.toup.net
+*.translate.googleapis.com
 *.tsecy.com
 *.ttlang.com
 *.tu2266.xyz
+*.tubemogul.com
 *.tucahuand.com
 *.tuchuang188.com
 *.tumblr.com
@@ -509,10 +557,13 @@
 *.v-charts.js.org
 *.v2ex.com
 *.v2ray.com
+*.vectorplexus.com
+*.vercel.app
 *.vimeo.com
 *.vincentgarreau.com
 *.viptuji.com
 *.visualstudio.com
+*.vitejs.dev
 *.vuejs.github.io
 *.vuejs.org
 *.wahas.com
@@ -523,12 +574,14 @@
 *.win7en.com
 *.windicss.org
 *.wisevpn.net
+*.wixmp.com
 *.wixsite.com
 *.wixstatic.com
 *.woothemes.com
 *.wordpress.com
 *.wp.com
 *.wrapbootstrap.com
+*.wujiecao.cn
 *.www.googleapis.com
 *.xacg.de
 *.xacg.fun
@@ -537,6 +590,7 @@
 *.xher.net
 *.xiami.la
 *.xn--gmqz83awjh.com
+*.xn--gmqz83awjh.org
 *.xn--o39as5y.nz
 *.xoxco.com
 *.xrado.github.io
@@ -560,11 +614,14 @@
 *.zacg8.com
 *.zendesk.com
 *.zhuabamm.com
+*.zodgame.xyz
 1.eyny.com
+118.107.44.150
 174.127.195.187
 174.138.175.178
 68.168.16.153
 eyny.com
+img.9damaogame.net
 raw.githubusercontent.com
 redux-toolkit.js.org
 share4uspace.com
