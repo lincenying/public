@@ -1,28 +1,34 @@
 {
   "name": "public",
+  "type": "module",
   "version": "1.0.0",
   "description": "public tools",
   "author": "lincenying &lt;lincenying@qq.com&gt;",
   "license": "MIT",
   "scripts": {
-    "prepare": "husky install",
+    "postinstall": "sh simple-git-hooks.sh",
     "tsc": "tsc",
-    "lint": "eslint --ext .ts ./ --fix"
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "lint:ts": "tsc --noEmit"
   },
   "dependencies": {
     "moment": "^2.29.4"
   },
   "devDependencies": {
-    "@lincy/eslint-config": "^2.0.3",
-    "@types/node": "^20.2.5",
-    "eslint": "^8.41.0",
-    "husky": "^8.0.3",
-    "lint-staged": "^13.2.2",
+    "@lincy/eslint-config": "^3.6.0",
+    "@types/node": "^20.9.0",
+    "eslint": "^8.53.0",
+    "lint-staged": "^15.1.0",
     "shelljs": "^0.8.5",
-    "typescript": "^5.0.4"
+    "simple-git-hooks": "^2.9.0",
+    "typescript": "^5.2.2"
+  },
+  "simple-git-hooks": {
+    "pre-commit": "npx lint-staged"
   },
   "lint-staged": {
-    "*.{js,ts}": [
+    "*.{ts,js}": [
       "eslint --fix"
     ]
   }
