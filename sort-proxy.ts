@@ -10,7 +10,7 @@ const newProxyTxt = arrProxyTxt.sort().join('\n')
 
 const writeProxyTxt = `[SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: ${moment().format('Y/m/d')}
+; Date: ${moment().format('YYYY/MM/DD')}
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; start

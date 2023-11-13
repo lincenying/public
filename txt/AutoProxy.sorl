@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2023/9/3
+; Date: 2023/11/13
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; start
@@ -11,10 +11,12 @@
 *.18p2p.com
 *.1dmp.io
 *.1password.com
+*.52ezacg.com
 *.55dfh.site
 *.5ay.xyz
 *.5dmcity.cn
 *.5dmcity.com
+*.60u1x.app
 *.85porn.com
 *.888173.net
 *.91cdn.xyz
@@ -24,6 +26,10 @@
 *.98tuch.net
 *.99danji.com
 *.9damaogame.net
+*.9damaogames.com
+*.9damaomods.com
+*.9dmsgame.com
+*.a2e7.xyz
 *.aaanr.com
 *.abcyun.top
 *.acggw.com
@@ -34,6 +40,7 @@
 *.adobe.com
 *.adobeoobe.com
 *.afreecatv.com
+*.ag43u.cn
 *.aimei66.com
 *.aishipin.net
 *.aitu888.com
@@ -47,6 +54,7 @@
 *.alohaeditor.org
 *.amazon.co.jp
 *.amazonaws.com
+*.ameba.jp
 *.amplitude.com
 *.android.com
 *.anonfiles.com
@@ -54,6 +62,7 @@
 *.api.netlify.com
 *.apk-downloaders.com
 *.apksmart.com
+*.app.netlify.com
 *.appjpg.com
 *.appollo.jp
 *.appsformac.net
@@ -65,12 +74,14 @@
 *.atlassian.com
 *.atom.io
 *.avfun16.com
+*.avgle.com
 *.avmask.com
 *.avmo.pw
 *.avmoo.com
 *.avxyz.xyz
 *.awacgg3.vip
 *.awesomes.cn
+*.azat.io
 *.b-cdn.net
 *.babeljs.io
 *.baidu-design.github.io
@@ -80,6 +91,7 @@
 *.bilibilizb.com
 *.bit.ly
 *.bkjia.com
+*.blnovelhub.com
 *.blogblog.com
 *.blogger.com
 *.blogimg.jp
@@ -95,13 +107,20 @@
 *.btrabbit.cc
 *.btsook.xyz
 *.btsow.beauty
+*.btsow.boats
+*.btsow.bond
 *.btsow.cfd
+*.btsow.hair
 *.btsow.mom
 *.btsow.sbs
+*.btsow.skin
 *.btspread.com
 *.buefy.org
+*.bugsnag.com
 *.bulma.io
+*.bundlephobia.com
 *.bxdsp.me
+*.camwhores.tv
 *.caniuse.com
 *.cdninstagram.com
 *.cdpn.io
@@ -126,6 +145,7 @@
 *.codepen.io
 *.codesandbox.io
 *.coffcer.github.io
+*.commondatastorage.googleapis.com
 *.conemu.github.io
 *.consensu.org
 *.coreui.io
@@ -138,10 +158,12 @@
 *.cunhua.help
 *.cursors-4u.net
 *.cxyzjd.com
+*.d33wubrfki0l68.cloudfront.net
 *.daumcdn.net
 *.day.js.org
 *.daymarrworkshop.com
 *.dcinside.com
+*.ddssp2.com
 *.defunkt.io
 *.dev.to
 *.devdocs.io
@@ -157,6 +179,7 @@
 *.dlsite.jp
 *.dmm.co.jp
 *.docker.com
+*.doppiocdn.com
 *.dotwe.org
 *.doub.io
 *.dropbox.com
@@ -167,8 +190,11 @@
 *.dtscdn.com
 *.dubox.com
 *.duboxcdn.com
+*.duplicate-photo-finder.com
 *.edgefonts.net
+*.editorjs.io
 *.eggjs.org
+*.ej22g.com
 *.element-plus.org
 *.ensighten.com
 *.epiceditor.com
@@ -252,6 +278,8 @@
 *.hpplus.jp
 *.htmllion.com
 *.huapuzi.com
+*.huggingface.co
+*.iconify.design
 *.ift.tt
 *.ihompy.com
 *.ihostimg.com
@@ -301,6 +329,7 @@
 *.kissjav.com
 *.kongquehai.org
 *.kxlme.com
+*.lanzouj.com
 *.laowang.vip
 *.lbry.tv
 *.ldshow.com
@@ -330,6 +359,7 @@
 *.maronato.dev
 *.marumise.com
 *.mathjax.org
+*.me8gs.app
 *.mediafire.com
 *.medium.com
 *.medvip4u.com
@@ -337,6 +367,7 @@
 *.mega.io
 *.mega.nz
 *.meltingice.net
+*.microsoftonline.com
 *.mikuclub.org
 *.mimoes.com
 *.minetheme.com
@@ -354,6 +385,7 @@
 *.mozilla.org
 *.msauth.net
 *.msecnd.net
+*.msftauth.net
 *.mtoo.org
 *.mxpnl.com
 *.my365.tw
@@ -380,6 +412,7 @@
 *.okoala.github.io
 *.omtrdc.net
 *.onesignal.com
+*.openai.com
 *.oracle.com
 *.osoeco.xyz
 *.over-blog.net
@@ -389,6 +422,7 @@
 *.parastorage.com
 *.parsleyjs.org
 *.pastebin.com
+*.pastie.org
 *.patreon.com
 *.patreonusercontent.com
 *.pcdaili.com
@@ -410,7 +444,9 @@
 *.plot.ly
 *.plurk.com
 *.pmzmqru.cn
+*.pnpm.io
 *.pnpm.js.org
+*.pooi.moe
 *.popper.js.org
 *.porn5f.com
 *.porn5f5.xyz
@@ -439,11 +475,13 @@
 *.resilio.com
 *.rlcdn.com
 *.rsg.sc
+*.run.app
 *.rysuanaaser.com
 *.s-microsoft.com
 *.s.xxx
 *.s3.amazonaws.com
 *.sbcnnet.com
+*.sc-apps.com
 *.schaken-mods.com
 *.sednax.com
 *.sehuatang.org
@@ -497,11 +535,15 @@
 *.steampowered.com
 *.steamstatic.com
 *.steamworkshopdownloader.io
+*.stripchat.com
 *.stripe.com
+*.strpst.com
 *.sunkeumjeong.com
+*.superchat.live
 *.surmon.me
 *.swag.run
 *.sxeimg.com
+*.sxh3k.app
 *.symfony.com
 *.sysu.ed
 *.t-nani.co.kr
@@ -510,10 +552,15 @@
 *.t66y.com
 *.t9t.io
 *.tailwindcss.com
+*.tailwindui.com
 *.tampermonkey.net
 *.tangbure.org
+*.tanhuazu.com
+*.techlife.app
 *.telegram.org
 *.tellapart.com
+*.tellme.pw
+*.tenor.com
 *.themeelite.com
 *.themifycloud.com
 *.theporndude.com
@@ -529,16 +576,24 @@
 *.toastrjs.com
 *.tonytemplates.com
 *.tooooh.com
+*.torrentkitty.app
+*.torrentkitty.cam
+*.torrentkitty.lol
+*.torrentkitty.net
 *.torrentkitty.org
+*.torrentkitty.tv
 *.torrentkittyjx.org
+*.torrentmac.net
 *.toup.net
 *.translate.googleapis.com
+*.trbcdn.net
 *.tsecy.com
 *.ttlang.com
 *.tu2266.xyz
 *.tubemogul.com
 *.tucahuand.com
 *.tuchuang188.com
+*.tujidao06.com
 *.tumblr.com
 *.twimg.com
 *.twitter.com
@@ -564,9 +619,11 @@
 *.viptuji.com
 *.visualstudio.com
 *.vitejs.dev
+*.vitest.dev
 *.vuejs.github.io
 *.vuejs.org
 *.wahas.com
+*.webmp4.com
 *.webtype.com
 *.weex.help
 *.wellbia.com
