@@ -10,9 +10,9 @@ const newBlockTxt = arrBlockTxt.sort().join('\n')
 
 const writeBlockTxt = `[Adblock Plus 2.0]
 ! Checksum: RW/QudyvEPmfX2nVXTJ+AA
-! Version: ${moment().format('YmdHis')}
+! Version: ${moment().format('YYYYMMDDHHmmss')}
 ! Title: 自定义过滤规则
-! Last modified: ${moment().format('Y-m-d H:i:s')}
+! Last modified: ${moment().format('YYYY-MM-DD HH:mm:ss')}
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/lincenying/public
 ! Licence: https://github.com/lincenying/public

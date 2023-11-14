@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2023/11/13
+; Date: 2023-11-13 14:32:53
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; start
@@ -25,9 +25,6 @@
 *.98qwewqq.xyz
 *.98tuch.net
 *.99danji.com
-*.9damaogame.net
-*.9damaogames.com
-*.9damaomods.com
 *.9dmsgame.com
 *.a2e7.xyz
 *.aaanr.com
@@ -672,14 +669,10 @@
 *.zendesk.com
 *.zhuabamm.com
 *.zodgame.xyz
-1.eyny.com
 118.107.44.150
 174.127.195.187
 174.138.175.178
 68.168.16.153
-eyny.com
-img.9damaogame.net
-raw.githubusercontent.com
 redux-toolkit.js.org
 share4uspace.com
 
