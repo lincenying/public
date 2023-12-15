@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Checksum: RW/QudyvEPmfX2nVXTJ+AA
-! Version: 20231215210015
+! Version: 20231215211126
 ! Title: 自定义过滤规则
-! Last modified: 2023-12-15 21:00:15
+! Last modified: 2023-12-15 21:11:26
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/lincenying/public
 ! Licence: https://github.com/lincenying/public
@@ -19,6 +19,7 @@
 115.com##.banner-top
 115.com##.feature-float
 4399.com##.top
+9damaogame.com##.md_ctrl
 a.liuzhi520.com
 admin.qidian.qq.com
 ajax.lug.ustc.edu.cn/ajax/libs/jquery/3.4.1/jquery.min.js
@@ -43,8 +44,10 @@ douyu.com##.layout-Player-rank
 euosicjxjv.com/*
 google-analytics.com
 hm.baidu.com
-huya.com##.jump-to-phone-bd
+huya.com###pop-box-share
 huya.com##.NavItemBd--WW3e4fFMY__WaH4bpRF8K
+huya.com##.entrance-expand
+huya.com##.jump-to-phone-bd
 ig.sc-bjx.com
 increasinglycockroachpolicy.com
 js.tongji.linezing.com
@@ -58,7 +61,9 @@ mitakusaner.blog.fc2.com##.widget-banner
 mon.zijieapi.com/*
 moradu.com
 my.hellobar.com/*
+nexusmods.com###collections_alpha_banner_two
 nexusmods.com##.ads
+nexusmods.com##.banner.alpha
 nexusmods.com##.default-creative-iframe
 nl.notice.iqiyi.com
 nl.rcd.iqiyi.com
