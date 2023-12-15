@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Checksum: RW/QudyvEPmfX2nVXTJ+AA
-! Version: 20231215162416
+! Version: 20231215210015
 ! Title: 自定义过滤规则
-! Last modified: 2023-12-15 16:24:16
+! Last modified: 2023-12-15 21:00:15
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/lincenying/public
 ! Licence: https://github.com/lincenying/public
@@ -10,32 +10,52 @@
 !-----------------------General advert blocking filters-----------------------!
 ! start
 
+*.addthis.com
 */wp-content/themes/modown/static/js/chinese.js
 .adskeeper.co.uk
 .carbonads.com
 .doubleclick.net
 .exdynsrv.com
 115.com##.banner-top
+115.com##.feature-float
 4399.com##.top
 a.liuzhi520.com
 admin.qidian.qq.com
 ajax.lug.ustc.edu.cn/ajax/libs/jquery/3.4.1/jquery.min.js
+api.feelgood.cn/*
+api.pinterest.com/*
+arca.live###defaultImage
+arca.live##.ad
 assets.tumblr.com/client/prod/standalone/photoset-iframe/index.build.js
 bqq.gtimg.com
+bridalplums.com/*
 c.cnzz.com
 cdn.wwads.cn/js/*
 ce69817852420b7fea.com
 cn.vitejs.dev##.VPDocAsideSponsors
 cn.vitejs.dev##.spacer
 cn.vitejs.dev##.wwads-container
+da.namu.la
 dn-growing.qbox.me
+douyu.com##.RechangeJulyPopups
+douyu.com##.jump-to-phone-bd
+douyu.com##.layout-Player-rank
+euosicjxjv.com/*
 google-analytics.com
 hm.baidu.com
+huya.com##.jump-to-phone-bd
+huya.com##.NavItemBd--WW3e4fFMY__WaH4bpRF8K
 ig.sc-bjx.com
+increasinglycockroachpolicy.com
 js.tongji.linezing.com
 live.bilibili.com/activity/live-activity-battle/*
 live.bilibili.com/p/html/live-lottery/*
 macwk.cn###io-popup-tips
+mcs.zijieapi.com/*
+midext.cdn.huya.com/ext-web-mid/*
+midext2.cdn.huya.com/*
+mitakusaner.blog.fc2.com##.widget-banner
+mon.zijieapi.com/*
 moradu.com
 my.hellobar.com/*
 nexusmods.com##.ads
@@ -49,6 +69,7 @@ static1.115cdn.net/static/public/*
 szcert.ebs.org.cn
 t7z.cupid.iqiyi.com
 tajs.qq.com
+tjg.gzhuibei.com/*
 tongji.feibisi.com
 wp.qiye.qq.com
 www.biquge.se##.box_con>.box_con
@@ -59,7 +80,7 @@ www.huya.com##.match_nav
 www.javbus.com##.ad-table
 www.javbus2.com##.ad-table
 www.macz.com##.newest-recommend
-www.macz.com##.sec-imgs clearfix
+www.macz.com##.sec-imgs
 x6k.com##.index-ad
 
 ! end
