@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Checksum: RW/QudyvEPmfX2nVXTJ+AA
-! Version: 20231215211126
+! Version: 20231215220051
 ! Title: 自定义过滤规则
-! Last modified: 2023-12-15 21:11:26
+! Last modified: 2023-12-15 22:00:51
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/lincenying/public
 ! Licence: https://github.com/lincenying/public
