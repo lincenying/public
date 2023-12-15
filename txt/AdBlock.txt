@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Checksum: RW/QudyvEPmfX2nVXTJ+AA
-! Version: 20231113134830
+! Version: 20231215110642
 ! Title: 自定义过滤规则
-! Last modified: 2023-11-13 13:48:30
+! Last modified: 2023-12-15 11:06:42
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/lincenying/public
 ! Licence: https://github.com/lincenying/public
@@ -44,36 +44,40 @@ img.tujigu.com/css/jquery.lazyload.js
 js.tongji.linezing.com
 live.bilibili.com/activity/live-activity-battle/*
 live.bilibili.com/p/html/live-lottery/*
+macwk.cn###io-popup-tips
 moradu.com
 my.hellobar.com/*
+nexusmods.com##.ads
+nexusmods.com##.default-creative-iframe
 nl.notice.iqiyi.com
 nl.rcd.iqiyi.com
+ping.chinaz.com###centerTxt
+ping.chinaz.com###loc
+ping.chinaz.com###toolsIntro
+ping.chinaz.com###topTxt
 ping.chinaz.com##DIV[class="fr topTsCenter"]
-ping.chinaz.com##DIV[id="centerTxt"]
-ping.chinaz.com##DIV[id="loc"]
-ping.chinaz.com##DIV[id="toolsIntro"]
-ping.chinaz.com##DIV[id="topTxt"]
 sinaimg.cn/large/79a9a3bbgw1eyvrgzn5o4j218g0uidqa.jpg
 static.hotjar.com/*
 static1.115cdn.net/static/public/*
 szcert.ebs.org.cn
 t7z.cupid.iqiyi.com
 tajs.qq.com
+tongji.feibisi.com
 wp.qiye.qq.com
 www.biquge.se##.box_con>.box_con
-www.douyu.com##DIV[id="js-player-guessgame"]
+www.douyu.com###js-player-guessgame
 www.gm016.com/js/*.htm
 www.googletagmanager.com/*
-www.huya.com##DIV[class="match_nav "]
+www.huya.com##.match_nav
 www.javbus.com##.ad-table
 www.javbus2.com##.ad-table
-www.laqu.com##DIV[class="applyshare"]
-www.laqu.com##DIV[class="myfr advert-move"]
-www.laqu.com##DIV[class="new_index_exclusive"]
-www.macz.com##SECTION[class="newest-recommend"]
-www.macz.com##SECTION[class="sec-imgs clearfix"]
+www.laqu.com##.applyshare
+www.laqu.com##.myfr advert-move
+www.laqu.com##.new_index_exclusive
+www.macz.com##.newest-recommend
+www.macz.com##.sec-imgs clearfix
 www.taofake.com/static/top_taobao/js/sendareatb.js
-wx.shike8888.com##DIV[id="slider"]
+wx.shike8888.com###slider
 x6k.com##.index-ad
 
 ! end
