@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2023-12-15 10:41:53
+; Date: 2023-12-15 10:48:33
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; start
@@ -103,14 +103,7 @@
 *.btos.pw
 *.btrabbit.cc
 *.btsook.xyz
-*.btsow.beauty
-*.btsow.boats
-*.btsow.bond
-*.btsow.cfd
-*.btsow.hair
-*.btsow.mom
-*.btsow.sbs
-*.btsow.skin
+*.btsow.*
 *.btspread.com
 *.buefy.org
 *.bugsnag.com
@@ -243,13 +236,8 @@
 *.githubmemory.com
 *.githubusercontent.com
 *.glitch.com
-*.goo.gl
-*.goo.gle
-*.google.ca
-*.google.cn
-*.google.co.jp
-*.google.com
-*.google.com.hk
+*.goo.*
+*.google.*
 *.googleapis.com
 *.googleblog.com
 *.googlecode.com
@@ -570,12 +558,7 @@
 *.toastrjs.com
 *.tonytemplates.com
 *.tooooh.com
-*.torrentkitty.app
-*.torrentkitty.cam
-*.torrentkitty.lol
-*.torrentkitty.net
-*.torrentkitty.org
-*.torrentkitty.tv
+*.torrentkitty.*
 *.torrentkittyjx.org
 *.torrentmac.net
 *.toup.net
@@ -638,8 +621,7 @@
 *.xhangxian.com
 *.xher.net
 *.xiami.la
-*.xn--gmqz83awjh.com
-*.xn--gmqz83awjh.org
+*.xn--gmqz83awjh.*
 *.xn--o39as5y.nz
 *.xoxco.com
 *.xrado.github.io
