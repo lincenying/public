@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2023-11-14 16:53:06
+; Date: 2023-12-15 10:41:53
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; start
@@ -32,6 +32,7 @@
 *.acggw.com
 *.acghgame.net
 *.acgyyg.com
+*.aconvert.com
 *.adblockplus.org
 *.adguard.com
 *.adobe.com
@@ -41,7 +42,6 @@
 *.aimei66.com
 *.aishipin.net
 *.aitu888.com
-*.ajax.googleapis.com
 *.akamaihd.net
 *.akamaized.net
 *.aklmtt.net
@@ -142,7 +142,6 @@
 *.codepen.io
 *.codesandbox.io
 *.coffcer.github.io
-*.commondatastorage.googleapis.com
 *.conemu.github.io
 *.consensu.org
 *.coreui.io
@@ -213,14 +212,11 @@
 *.fh4g.com
 *.file01.com
 *.filestackapi.com
-*.firebase.googleapis.com
-*.firebaseinstallations.googleapis.com
 *.firebaseio.com
 *.firepad.io
 *.flickr.com
 *.flyzy2005.com
 *.fontawesome.com
-*.fonts.googleapis.com
 *.fontsquirrel.com
 *.fosshub.com
 *.freeimage.us
@@ -254,6 +250,7 @@
 *.google.co.jp
 *.google.com
 *.google.com.hk
+*.googleapis.com
 *.googleblog.com
 *.googlecode.com
 *.googlesource.com
@@ -324,6 +321,7 @@
 *.kanjiantu.com
 *.keepass.info
 *.kissjav.com
+*.knotch.com
 *.kongquehai.org
 *.kxlme.com
 *.lanzouj.com
@@ -352,7 +350,6 @@
 *.madouqu.com
 *.mag.moe
 *.mail.edu.rs
-*.maps.googleapis.com
 *.maronato.dev
 *.marumise.com
 *.mathjax.org
@@ -582,7 +579,6 @@
 *.torrentkittyjx.org
 *.torrentmac.net
 *.toup.net
-*.translate.googleapis.com
 *.trbcdn.net
 *.tsecy.com
 *.ttlang.com
@@ -636,7 +632,6 @@
 *.wp.com
 *.wrapbootstrap.com
 *.wujiecao.cn
-*.www.googleapis.com
 *.xacg.de
 *.xacg.fun
 *.xacg.me
