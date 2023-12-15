@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Checksum: RW/QudyvEPmfX2nVXTJ+AA
-! Version: 20231215110642
+! Version: 20231215135453
 ! Title: 自定义过滤规则
-! Last modified: 2023-12-15 11:06:42
+! Last modified: 2023-12-15 13:54:53
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/lincenying/public
 ! Licence: https://github.com/lincenying/public
@@ -16,31 +16,18 @@
 .doubleclick.net
 .exdynsrv.com
 115.com##.banner-top
-4399.com##DIV[class="top"]
-@@http://img599.net
-@@||macwk.com/$document
-@@||sentry.io/$document
-@@||shi.huamijie.com/$document
-@@||t66y.com/*^$document
-@@||uncensoredleak.com/$document
-@@||v.youku.com/$document
-@@||www.iviewui.com/$document
-@@||www.t66y.com/$document
-@@||www.zxcs.me/$document
-@@||xclient.info/$document
+4399.com##.top
 a.liuzhi520.com
 admin.qidian.qq.com
 ajax.lug.ustc.edu.cn/ajax/libs/jquery/3.4.1/jquery.min.js
 assets.tumblr.com/client/prod/standalone/photoset-iframe/index.build.js
 bqq.gtimg.com
-btsow.casa/app/bts/View/js/app.min.js
 c.cnzz.com
 ce69817852420b7fea.com
 dn-growing.qbox.me
 google-analytics.com
 hm.baidu.com
 ig.sc-bjx.com
-img.tujigu.com/css/jquery.lazyload.js
 js.tongji.linezing.com
 live.bilibili.com/activity/live-activity-battle/*
 live.bilibili.com/p/html/live-lottery/*
@@ -51,12 +38,8 @@ nexusmods.com##.ads
 nexusmods.com##.default-creative-iframe
 nl.notice.iqiyi.com
 nl.rcd.iqiyi.com
-ping.chinaz.com###centerTxt
 ping.chinaz.com###loc
-ping.chinaz.com###toolsIntro
-ping.chinaz.com###topTxt
-ping.chinaz.com##DIV[class="fr topTsCenter"]
-sinaimg.cn/large/79a9a3bbgw1eyvrgzn5o4j218g0uidqa.jpg
+ping.chinaz.com##.topTsCenter
 static.hotjar.com/*
 static1.115cdn.net/static/public/*
 szcert.ebs.org.cn
@@ -71,13 +54,8 @@ www.googletagmanager.com/*
 www.huya.com##.match_nav
 www.javbus.com##.ad-table
 www.javbus2.com##.ad-table
-www.laqu.com##.applyshare
-www.laqu.com##.myfr advert-move
-www.laqu.com##.new_index_exclusive
 www.macz.com##.newest-recommend
 www.macz.com##.sec-imgs clearfix
-www.taofake.com/static/top_taobao/js/sendareatb.js
-wx.shike8888.com###slider
 x6k.com##.index-ad
 
 ! end
