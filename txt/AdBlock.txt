@@ -45,7 +45,7 @@ euosicjxjv.com/*
 google-analytics.com
 hm.baidu.com
 huya.com###pop-box-share
-huya.com##.NavItemBd--WW3e4fFMY__WaH4bpRF8K
+huya.com##.NavDownload--14eln2LYTFMgF_MZOue4Gu > .NavItemBd--WW3e4fFMY__WaH4bpRF8K
 huya.com##.entrance-expand
 huya.com##.jump-to-phone-bd
 ig.sc-bjx.com
