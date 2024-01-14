@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Checksum: RW/QudyvEPmfX2nVXTJ+AA
-! Version: 20240104234245
+! Version: 20240114201712
 ! Title: 自定义过滤规则
-! Last modified: 2024-01-04 23:42:45
+! Last modified: 2024-01-14 20:17:12
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/lincenying/public
 ! Licence: https://github.com/lincenying/public
@@ -48,7 +48,9 @@ huya.com###pop-box-share
 huya.com###public-screen-ab
 huya.com##.NavDownload--14eln2LYTFMgF_MZOue4Gu > .NavItemBd--WW3e4fFMY__WaH4bpRF8K
 huya.com##.entrance-expand
+huya.com##.jump-to-phone
 huya.com##.jump-to-phone-bd
+huya.com##.match_nav
 ig.sc-bjx.com
 increasinglycockroachpolicy.com
 js.tongji.linezing.com
@@ -56,7 +58,7 @@ live.bilibili.com/activity/live-activity-battle/*
 live.bilibili.com/p/html/live-lottery/*
 macwk.cn###io-popup-tips
 mcs.zijieapi.com/*
-midext.cdn.huya.com/ext-web-mid/*
+midext.cdn.huya.com/*
 midext2.cdn.huya.com/*
 mitakusaner.blog.fc2.com##.widget-banner
 mon.zijieapi.com/*
@@ -82,7 +84,6 @@ www.biquge.se##.box_con>.box_con
 www.douyu.com###js-player-guessgame
 www.gm016.com/js/*.htm
 www.googletagmanager.com/*
-www.huya.com##.match_nav
 www.javbus.com##.ad-table
 www.javbus2.com##.ad-table
 www.macz.com##.newest-recommend
