@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Checksum: RW/QudyvEPmfX2nVXTJ+AA
-! Version: 20240114201712
+! Version: 20240115101818
 ! Title: 自定义过滤规则
-! Last modified: 2024-01-14 20:17:12
+! Last modified: 2024-01-15 10:18:18
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/lincenying/public
 ! Licence: https://github.com/lincenying/public
@@ -11,6 +11,7 @@
 ! start
 
 *.addthis.com
+*/buy/ad/*
 */wp-content/themes/modown/static/js/chinese.js
 .adskeeper.co.uk
 .carbonads.com
@@ -77,6 +78,7 @@ static1.115cdn.net/static/public/*
 szcert.ebs.org.cn
 t7z.cupid.iqiyi.com
 tajs.qq.com
+tieba.baidu.com###novel-ranking
 tjg.gzhuibei.com/*
 tongji.feibisi.com
 wp.qiye.qq.com
