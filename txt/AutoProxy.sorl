@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2023-12-18 11:21:14
+; Date: 2024-03-27 14:22:55
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; start
@@ -648,6 +648,30 @@
 *.zendesk.com
 *.zhuabamm.com
 *.zodgame.xyz
+*.r3ltm.app
+*.mokkapps.de
+*.1szbg.app
+*.skyrim-guild.com
+*.cdn2020.com
+*.gczx.cc
+*.anthropic.com
+*.ohsoft.net
+*.875u.com
+*.mzitu.com
+*.ktk123.com
+*.91md.me
+*.fonfu.app
+*.weekly-vue.news
+*.7livq.app
+*.cloudfunctions.net
+*.nabble.com
+*.roer.co.kr
+*.ajax.googleapis.com
+*.hcaptcha.com
+*.redd.it
+*.postlmg.cc
+*.postimgs.org
+*.9dmsgame.net
 118.107.44.150
 174.127.195.187
 174.138.175.178
