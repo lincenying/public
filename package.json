@@ -13,16 +13,16 @@
     "lint:ts": "tsc --noEmit"
   },
   "dependencies": {
-    "moment": "^2.29.4"
+    "moment": "^2.30.1"
   },
   "devDependencies": {
-    "@lincy/eslint-config": "^4.2.3",
-    "@types/node": "^20.10.4",
-    "eslint": "^8.55.0",
-    "lint-staged": "^15.2.0",
+    "@lincy/eslint-config": "^4.5.1",
+    "@types/node": "^20.12.7",
+    "eslint": "^9.1.1",
+    "lint-staged": "^15.2.2",
     "shelljs": "^0.8.5",
-    "simple-git-hooks": "^2.9.0",
-    "typescript": "^5.3.3"
+    "simple-git-hooks": "^2.11.1",
+    "typescript": "^5.4.5"
   },
   "simple-git-hooks": {
     "pre-commit": "npx lint-staged"

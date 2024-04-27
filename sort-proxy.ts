@@ -8,12 +8,23 @@ let arrProxyTxt = proxyTxt.split('\n')
 arrProxyTxt = [...new Set(arrProxyTxt)]
 const newProxyTxt = arrProxyTxt.sort((a, b) => {
     // 在这里定义你的自定义排序逻辑
-    if (a.includes('@@'))
+    if (a.includes('@@')) {
         return 0
+    }
     // 返回负数表示 a 在 b 前面，返回正数表示 a 在 b 后面，返回 0 表示 a 和 b 相等
 
     // 例如，按照字符的 ASCII 码进行升序排序
-    return a.charCodeAt(0) - b.charCodeAt(0)
+    let indexA = 0
+    let indexB = 0
+    if (a.startsWith('*.')) {
+        indexA = 2
+    }
+
+    if (b.startsWith('*.')) {
+        indexB = 2
+    }
+
+    return a.charCodeAt(indexA) - b.charCodeAt(indexB)
 }).join('\n')
 
 const writeProxyTxt = `[SwitchyOmega Conditions]

@@ -1,26 +1,34 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2024-03-27 14:22:55
+; Date: 2024-04-27 17:28:06
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; start
 
 @@||fastly.jsdelivr.net
 
+*.0slnk.us
 *.07081f.com
 *.18acg.net
 *.18board.com
 *.18p2p.com
 *.1dmp.io
 *.1password.com
+*.1szbg.app
+118.107.44.150
+174.127.195.187
+174.138.175.178
 *.52ezacg.com
 *.55dfh.site
 *.5ay.xyz
 *.5dmcity.cn
 *.5dmcity.com
 *.60u1x.app
+68.168.16.153
+*.7livq.app
 *.85porn.com
 *.888173.net
+*.875u.com
 *.91cdn.xyz
 *.9527acg.net
 *.9527tuchuang.com
@@ -28,6 +36,8 @@
 *.98tuch.net
 *.99danji.com
 *.9dmsgame.com
+*.91md.me
+*.9dmsgame.net
 *.a2e7.xyz
 *.aaanr.com
 *.abcyun.top
@@ -81,6 +91,10 @@
 *.awacgg3.vip
 *.awesomes.cn
 *.azat.io
+*.anthropic.com
+*.ajax.googleapis.com
+*.all-mods.ru
+*.avple.tv
 *.b-cdn.net
 *.babeljs.io
 *.baidu-design.github.io
@@ -149,6 +163,9 @@
 *.cunhua.help
 *.cursors-4u.net
 *.cxyzjd.com
+*.cdn2020.com
+*.cloudfunctions.net
+*.cdnedge.live
 *.d33wubrfki0l68.cloudfront.net
 *.daumcdn.net
 *.day.js.org
@@ -216,6 +233,7 @@
 *.fosshub.com
 *.freeimage.us
 *.fulisuo.com
+*.fonfu.app
 *.g.co
 *.gamebanana.com
 *.gamer-mods.ru
@@ -252,6 +270,7 @@
 *.gravatar.com
 *.gssprt.jp
 *.gstatic.com
+*.gczx.cc
 *.hakim.se
 *.hatena.ne.jp
 *.hejiba.net
@@ -263,6 +282,10 @@
 *.htmllion.com
 *.huapuzi.com
 *.huggingface.co
+*.hcaptcha.com
+*.hjd2048.com
+*.henxihuan-ma.top
+*.headlessui.com
 *.iconify.design
 *.ift.tt
 *.ihompy.com
@@ -314,6 +337,8 @@
 *.knotch.com
 *.kongquehai.org
 *.kxlme.com
+*.ktk123.com
+*.kanliao.buzz
 *.lanzouj.com
 *.laowang.vip
 *.lbry.tv
@@ -332,6 +357,7 @@
 *.loverslab.com
 *.lsmpic.com
 *.lululu.cc
+*.lightgalleryjs.com
 *.macbed.com
 *.macdownload.org
 *.macloo.github.io
@@ -374,6 +400,9 @@
 *.mxpnl.com
 *.my365.tw
 *.myjs.tw
+*.mokkapps.de
+*.mzitu.com
+*.madouqu3.cc
 *.namu.la
 *.naver.com
 *.netcdn.space
@@ -389,6 +418,7 @@
 *.nuxtjs.org
 *.nvidia.com
 *.nvshen.kr
+*.nabble.com
 *.oath.com
 *.octotree.io
 *.odysee.com
@@ -401,6 +431,7 @@
 *.osoeco.xyz
 *.over-blog.net
 *.ow.ly
+*.ohsoft.net
 *.packagist.org
 *.pages.dev
 *.parastorage.com
@@ -442,6 +473,8 @@
 *.predatorrat.com
 *.proxifier.com
 *.pximg.net
+*.postlmg.cc
+*.postimgs.org
 *.qpic.ws
 *.quasar.dev
 *.quilljs.com
@@ -461,6 +494,10 @@
 *.rsg.sc
 *.run.app
 *.rysuanaaser.com
+*.r3ltm.app
+*.roer.co.kr
+*.redd.it
+redux-toolkit.js.org
 *.s-microsoft.com
 *.s.xxx
 *.s3.amazonaws.com
@@ -530,6 +567,9 @@
 *.sxh3k.app
 *.symfony.com
 *.sysu.ed
+*.skyrim-guild.com
+*.shiki.style
+share4uspace.com
 *.t-nani.co.kr
 *.t.co
 *.t.me
@@ -587,6 +627,7 @@
 *.unpkg.com
 *.upload.cc
 *.usercdn.com
+*.unjs.io
 *.v-charts.js.org
 *.v2ex.com
 *.v2ray.com
@@ -600,6 +641,7 @@
 *.vitest.dev
 *.vuejs.github.io
 *.vuejs.org
+*.vscode.dev
 *.wahas.com
 *.webmp4.com
 *.webtype.com
@@ -617,6 +659,7 @@
 *.wp.com
 *.wrapbootstrap.com
 *.wujiecao.cn
+*.weekly-vue.news
 *.xacg.de
 *.xacg.fun
 *.xacg.me
@@ -628,6 +671,7 @@
 *.xoxco.com
 *.xrado.github.io
 *.xsimg.xyz
+*.x.com
 *.yadi.sk
 *.yandex.ru
 *.yarnpkg.com
@@ -644,39 +688,10 @@
 *.yuese3.com
 *.yueyou.ren
 *.yumenosora.co.jp
+*.yfvjv.app
 *.zacg8.com
 *.zendesk.com
 *.zhuabamm.com
 *.zodgame.xyz
-*.r3ltm.app
-*.mokkapps.de
-*.1szbg.app
-*.skyrim-guild.com
-*.cdn2020.com
-*.gczx.cc
-*.anthropic.com
-*.ohsoft.net
-*.875u.com
-*.mzitu.com
-*.ktk123.com
-*.91md.me
-*.fonfu.app
-*.weekly-vue.news
-*.7livq.app
-*.cloudfunctions.net
-*.nabble.com
-*.roer.co.kr
-*.ajax.googleapis.com
-*.hcaptcha.com
-*.redd.it
-*.postlmg.cc
-*.postimgs.org
-*.9dmsgame.net
-118.107.44.150
-174.127.195.187
-174.138.175.178
-68.168.16.153
-redux-toolkit.js.org
-share4uspace.com
 
 ; end
