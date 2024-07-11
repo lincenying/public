@@ -1,10 +1,11 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2024-04-27 17:28:06
+; Date: 2024-07-11 19:07:55
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; start
 
+*.1kdj5.app
 @@||fastly.jsdelivr.net
 
 *.0slnk.us
@@ -18,11 +19,13 @@
 118.107.44.150
 174.127.195.187
 174.138.175.178
+*.26img.com
 *.52ezacg.com
 *.55dfh.site
 *.5ay.xyz
 *.5dmcity.cn
 *.5dmcity.com
+*.5hhyu.com
 *.60u1x.app
 68.168.16.153
 *.7livq.app
@@ -38,6 +41,8 @@
 *.9dmsgame.com
 *.91md.me
 *.9dmsgame.net
+*.9convert.com
+*.91md.men
 *.a2e7.xyz
 *.aaanr.com
 *.abcyun.top
@@ -126,6 +131,8 @@
 *.bulma.io
 *.bundlephobia.com
 *.bxdsp.me
+*.brrub.us
+*.bunshun.jp
 *.camwhores.tv
 *.caniuse.com
 *.cdninstagram.com
@@ -166,6 +173,7 @@
 *.cdn2020.com
 *.cloudfunctions.net
 *.cdnedge.live
+*.chatgpt.com
 *.d33wubrfki0l68.cloudfront.net
 *.daumcdn.net
 *.day.js.org
@@ -310,6 +318,7 @@
 *.ipfs.io
 *.ipoock.com
 *.iyuanqi.com
+*.iwara.tv
 *.jaredreich.com
 *.javbus.com
 *.javbus.info
@@ -329,6 +338,7 @@
 *.jsfiddle.net
 *.jshell.net
 *.json-generator.com
+*.javlibrary.com
 *.kakao.com
 *.kakaocdn.net
 *.kanjiantu.com
@@ -403,6 +413,10 @@
 *.mokkapps.de
 *.mzitu.com
 *.madouqu3.cc
+*.mobile01.com
+*.missav.com
+*.madouqu.cf
+*.media-lab.ai
 *.namu.la
 *.naver.com
 *.netcdn.space
@@ -419,6 +433,7 @@
 *.nvidia.com
 *.nvshen.kr
 *.nabble.com
+*.nhentai.net
 *.oath.com
 *.octotree.io
 *.odysee.com
@@ -432,6 +447,7 @@
 *.over-blog.net
 *.ow.ly
 *.ohsoft.net
+*.oaistatic.com
 *.packagist.org
 *.pages.dev
 *.parastorage.com
@@ -475,6 +491,8 @@
 *.pximg.net
 *.postlmg.cc
 *.postimgs.org
+*.playno1.com
+*.picelsb.com
 *.qpic.ws
 *.quasar.dev
 *.quilljs.com
@@ -570,6 +588,7 @@ redux-toolkit.js.org
 *.skyrim-guild.com
 *.shiki.style
 share4uspace.com
+*.surrit.com
 *.t-nani.co.kr
 *.t.co
 *.t.me
@@ -616,6 +635,9 @@ share4uspace.com
 *.twimg.com
 *.twitter.com
 *.typekit.net
+*.tomp3.cc
+*.thauhoux.com
+*.twic.pics
 *.u9un.com
 *.uawnqe.com
 *.ucdok.com
@@ -628,6 +650,7 @@ share4uspace.com
 *.upload.cc
 *.usercdn.com
 *.unjs.io
+*.useragentinfo.com
 *.v-charts.js.org
 *.v2ex.com
 *.v2ray.com
@@ -660,6 +683,7 @@ share4uspace.com
 *.wrapbootstrap.com
 *.wujiecao.cn
 *.weekly-vue.news
+*.white-plus.net
 *.xacg.de
 *.xacg.fun
 *.xacg.me
@@ -689,6 +713,9 @@ share4uspace.com
 *.yueyou.ren
 *.yumenosora.co.jp
 *.yfvjv.app
+*.yesmzt.com
+*.yout.com
+*.youtubemy.com
 *.zacg8.com
 *.zendesk.com
 *.zhuabamm.com
