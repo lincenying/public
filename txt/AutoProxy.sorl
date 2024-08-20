@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2024-07-11 19:07:55
+; Date: 2024-08-20 15:48:40
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; start
@@ -100,6 +100,7 @@
 *.ajax.googleapis.com
 *.all-mods.ru
 *.avple.tv
+*.avmo.club
 *.b-cdn.net
 *.babeljs.io
 *.baidu-design.github.io
@@ -133,6 +134,8 @@
 *.bxdsp.me
 *.brrub.us
 *.bunshun.jp
+*.btmovi.app
+*.balena.io
 *.camwhores.tv
 *.caniuse.com
 *.cdninstagram.com
@@ -174,6 +177,7 @@
 *.cloudfunctions.net
 *.cdnedge.live
 *.chatgpt.com
+*.cssreference.io
 *.d33wubrfki0l68.cloudfront.net
 *.daumcdn.net
 *.day.js.org
@@ -207,6 +211,7 @@
 *.dubox.com
 *.duboxcdn.com
 *.duplicate-photo-finder.com
+*.dxload.com
 *.edgefonts.net
 *.editorjs.io
 *.eggjs.org
@@ -229,7 +234,6 @@
 *.fc2blog.us
 *.feng666.cc
 *.fens.me
-*.fh4g.com
 *.file01.com
 *.filestackapi.com
 *.firebaseio.com
@@ -279,6 +283,7 @@
 *.gssprt.jp
 *.gstatic.com
 *.gczx.cc
+*.godaddy.com
 *.hakim.se
 *.hatena.ne.jp
 *.hejiba.net
@@ -417,6 +422,7 @@
 *.missav.com
 *.madouqu.cf
 *.media-lab.ai
+*.magnet-search.com
 *.namu.la
 *.naver.com
 *.netcdn.space
@@ -448,6 +454,7 @@
 *.ow.ly
 *.ohsoft.net
 *.oaistatic.com
+*.onedrive.com
 *.packagist.org
 *.pages.dev
 *.parastorage.com
@@ -493,11 +500,13 @@
 *.postimgs.org
 *.playno1.com
 *.picelsb.com
+*.python.org
 *.qpic.ws
 *.quasar.dev
 *.quilljs.com
 *.quora.com
 *.qwewqa3w.com
+*.quoracdn.net
 *.ravenjs.com
 *.rawgit.com
 *.reactstarter.com
@@ -638,6 +647,8 @@ share4uspace.com
 *.tomp3.cc
 *.thauhoux.com
 *.twic.pics
+*.teddysun.com
+*.torkitty.net
 *.u9un.com
 *.uawnqe.com
 *.ucdok.com
@@ -696,6 +707,7 @@ share4uspace.com
 *.xrado.github.io
 *.xsimg.xyz
 *.x.com
+*.xixiranran.com
 *.yadi.sk
 *.yandex.ru
 *.yarnpkg.com
