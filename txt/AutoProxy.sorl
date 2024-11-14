@@ -1,11 +1,12 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2024-08-20 15:48:40
+; Date: 2024-11-14 15:25:42
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; start
 
 *.1kdj5.app
+*.9dmgamemod.com
 @@||fastly.jsdelivr.net
 
 *.0slnk.us
@@ -101,6 +102,8 @@
 *.all-mods.ru
 *.avple.tv
 *.avmo.club
+*.apphb.com
+*.azure.cn
 *.b-cdn.net
 *.babeljs.io
 *.baidu-design.github.io
@@ -246,6 +249,8 @@
 *.freeimage.us
 *.fulisuo.com
 *.fonfu.app
+*.figma.com
+*.fanhao.pub
 *.g.co
 *.gamebanana.com
 *.gamer-mods.ru
@@ -284,6 +289,8 @@
 *.gstatic.com
 *.gczx.cc
 *.godaddy.com
+*.gmail.com
+*.guiour.com
 *.hakim.se
 *.hatena.ne.jp
 *.hejiba.net
@@ -344,6 +351,7 @@
 *.jshell.net
 *.json-generator.com
 *.javlibrary.com
+*.jspm.io
 *.kakao.com
 *.kakaocdn.net
 *.kanjiantu.com
@@ -423,6 +431,7 @@
 *.madouqu.cf
 *.media-lab.ai
 *.magnet-search.com
+*.myshopify.com
 *.namu.la
 *.naver.com
 *.netcdn.space
@@ -598,6 +607,10 @@ redux-toolkit.js.org
 *.shiki.style
 share4uspace.com
 *.surrit.com
+*.supportlivecam.com
+*.switch520.com
+*.solidjs.com
+*.starship.rs
 *.t-nani.co.kr
 *.t.co
 *.t.me
@@ -662,6 +675,8 @@ share4uspace.com
 *.usercdn.com
 *.unjs.io
 *.useragentinfo.com
+*.uptodown.com
+*.uiverse.io
 *.v-charts.js.org
 *.v2ex.com
 *.v2ray.com
