@@ -8,7 +8,6 @@
 *.1kdj5.app
 *.65641.org
 *.9dmgamemod.com
-@@||fastly.jsdelivr.net
 
 *.0slnk.us
 *.07081f.com
@@ -356,8 +355,6 @@
 *.joelambert.co.uk
 *.jquery.com
 *.jquerytools.org
-*.jsdelivr.com
-*.jsdelivr.net
 *.jsfiddle.net
 *.jshell.net
 *.json-generator.com
