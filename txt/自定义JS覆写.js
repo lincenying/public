@@ -24,6 +24,5 @@ function main(config) {
         'DOMAIN-SUFFIX,chat.openai.com,🚀ChatGPT',
         'MATCH,🐟漏网之鱼',
     ]
-    console.log(config.rules)
     return config
 }
