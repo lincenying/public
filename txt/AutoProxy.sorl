@@ -1,11 +1,12 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2025-02-26 10:40:14
+; Date: 2025-05-12 16:06:55
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; start
 
 *.1kdj5.app
+*.123av.me
 *.65641.org
 *.9dmgamemod.com
 
@@ -20,6 +21,7 @@
 118.107.44.150
 174.127.195.187
 174.138.175.178
+*.123av.com
 *.26img.com
 *.52ezacg.com
 *.55dfh.site
@@ -31,6 +33,7 @@
 68.168.16.153
 *.7livq.app
 *.7t7a.cc
+*.7pzzv.us
 *.85porn.com
 *.888173.net
 *.875u.com
@@ -257,6 +260,7 @@
 *.figma.com
 *.fanhao.pub
 *.futooncdn.com
+*.fourhoi.com
 *.g.co
 *.gamebanana.com
 *.gamer-mods.ru
@@ -298,6 +302,7 @@
 *.gmail.com
 *.guiour.com
 *.gcbt.net
+*.gofile.io
 *.hakim.se
 *.hatena.ne.jp
 *.hejiba.net
@@ -360,6 +365,7 @@
 *.json-generator.com
 *.javlibrary.com
 *.jspm.io
+*.jit0h.dog
 *.kakao.com
 *.kakaocdn.net
 *.kanjiantu.com
@@ -441,6 +447,7 @@
 *.magnet-search.com
 *.myshopify.com
 *.mapgenie.io
+*.mihomo.party
 *.namu.la
 *.naver.com
 *.netcdn.space
@@ -458,6 +465,8 @@
 *.nvshen.kr
 *.nabble.com
 *.nhentai.net
+*.njav.tv
+*.nvhom.com
 *.oath.com
 *.octotree.io
 *.odysee.com
@@ -520,12 +529,14 @@
 *.picelsb.com
 *.python.org
 *.pixeldrain.com
+*.page.link
 *.qpic.ws
 *.quasar.dev
 *.quilljs.com
 *.quora.com
 *.qwewqa3w.com
 *.quoracdn.net
+*.quay.io
 *.ravenjs.com
 *.rawgit.com
 *.reactstarter.com
@@ -622,6 +633,7 @@ share4uspace.com
 *.switch520.com
 *.solidjs.com
 *.starship.rs
+*.skyearth8.xyz
 *.t-nani.co.kr
 *.t.co
 *.t.me
