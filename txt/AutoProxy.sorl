@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2025-05-12 16:06:55
+; Date: 2025-07-14 14:08:19
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; start
@@ -108,6 +108,7 @@
 *.avmo.club
 *.apphb.com
 *.azure.cn
+*.avatars.githubusercontent.com
 *.b-cdn.net
 *.babeljs.io
 *.baidu-design.github.io
@@ -188,6 +189,7 @@
 *.chatgpt.com
 *.cssreference.io
 *.cherry-ai.com
+cdn.jsdelivr.net
 *.d33wubrfki0l68.cloudfront.net
 *.daumcdn.net
 *.day.js.org
@@ -223,6 +225,7 @@
 *.duplicate-photo-finder.com
 *.dxload.com
 *.dify.ai
+*.docker.io
 *.edgefonts.net
 *.editorjs.io
 *.eggjs.org
@@ -261,6 +264,7 @@
 *.fanhao.pub
 *.futooncdn.com
 *.fourhoi.com
+*.ffmpeg.org
 *.g.co
 *.gamebanana.com
 *.gamer-mods.ru
@@ -303,6 +307,7 @@
 *.guiour.com
 *.gcbt.net
 *.gofile.io
+*.gcr.io
 *.hakim.se
 *.hatena.ne.jp
 *.hejiba.net
@@ -530,6 +535,7 @@
 *.python.org
 *.pixeldrain.com
 *.page.link
+*.pstatic.net
 *.qpic.ws
 *.quasar.dev
 *.quilljs.com
@@ -556,6 +562,7 @@
 *.redd.it
 redux-toolkit.js.org
 *.rg-adguard.net
+*.ruyanhk.net
 *.s-microsoft.com
 *.s.xxx
 *.s3.amazonaws.com
@@ -634,6 +641,8 @@ share4uspace.com
 *.solidjs.com
 *.starship.rs
 *.skyearth8.xyz
+*.stackblitz.com
+*.ssllabs.com
 *.t-nani.co.kr
 *.t.co
 *.t.me
@@ -701,6 +710,7 @@ share4uspace.com
 *.useragentinfo.com
 *.uptodown.com
 *.uiverse.io
+*.unocss.dev
 *.v-charts.js.org
 *.v2ex.com
 *.v2ray.com
@@ -735,6 +745,7 @@ share4uspace.com
 *.wujiecao.cn
 *.weekly-vue.news
 *.white-plus.net
+*.wssio.com
 *.xacg.de
 *.xacg.fun
 *.xacg.me
@@ -773,5 +784,6 @@ share4uspace.com
 *.zendesk.com
 *.zhuabamm.com
 *.zodgame.xyz
+*.zeranoe.com
 
 ; end
