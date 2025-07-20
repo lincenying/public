@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Checksum: RW/QudyvEPmfX2nVXTJ+AA
-! Version: 20240724220854
+! Version: 20250720162232
 ! Title: 自定义过滤规则
-! Last modified: 2024-07-24 22:08:54
+! Last modified: 2025-07-20 16:22:32
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/lincenying/public
 ! Licence: https://github.com/lincenying/public
@@ -21,6 +21,7 @@
 115.com##.feature-float
 4399.com##.top
 9damaogame.com##.md_ctrl
+@@www.douyin.com$document
 a.liuzhi520.com
 admin.qidian.qq.com
 ajax.lug.ustc.edu.cn/ajax/libs/jquery/3.4.1/jquery.min.js
@@ -29,6 +30,7 @@ api.pinterest.com/*
 arca.live###defaultImage
 arca.live##.ad
 assets.tumblr.com/client/prod/standalone/photoset-iframe/index.build.js
+atjvanavras.com/*
 bqq.gtimg.com
 bridalplums.com/*
 c.cnzz.com
@@ -58,6 +60,7 @@ js.tongji.linezing.com
 live.bilibili.com/activity/live-activity-battle/*
 live.bilibili.com/p/html/live-lottery/*
 macwk.cn###io-popup-tips
+mbd.baidu.com/ztbox*
 mcs.zijieapi.com/*
 midext.cdn.huya.com/*
 midext2.cdn.huya.com/*
@@ -73,14 +76,18 @@ nl.notice.iqiyi.com
 nl.rcd.iqiyi.com
 ping.chinaz.com###loc
 ping.chinaz.com##.topTsCenter
+slushycharacter.com/*
 static.hotjar.com/*
 static1.115cdn.net/static/public/*
+statwup.huya.com/*
 szcert.ebs.org.cn
 t7z.cupid.iqiyi.com
 tajs.qq.com
 tieba.baidu.com###novel-ranking
 tjg.gzhuibei.com/*
 tongji.feibisi.com
+touristbaconwrath.com/*
+tuqakbsucajc.com/*
 wp.qiye.qq.com
 www.biquge.se##.box_con>.box_con
 www.douyu.com###js-player-guessgame
