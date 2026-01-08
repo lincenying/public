@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Checksum: RW/QudyvEPmfX2nVXTJ+AA
-! Version: 20240724220854
+! Version: 20260108173509
 ! Title: 自定义过滤规则
-! Last modified: 2024-07-24 22:08:54
+! Last modified: 2026-01-08 17:35:09
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/lincenying/public
 ! Licence: https://github.com/lincenying/public
@@ -43,8 +43,10 @@ douyu.com##.RechangeJulyPopups
 douyu.com##.jump-to-phone-bd
 douyu.com##.layout-Player-rank
 euosicjxjv.com/*
+gitee.com##.ui.warning.message
 google-analytics.com
 hm.baidu.com
+https://sdk.51.la/
 huya.com###pop-box-share
 huya.com###public-screen-ab
 huya.com##.NavDownload--14eln2LYTFMgF_MZOue4Gu > .NavItemBd--WW3e4fFMY__WaH4bpRF8K
@@ -63,6 +65,7 @@ midext.cdn.huya.com/*
 midext2.cdn.huya.com/*
 mitakusaner.blog.fc2.com##.widget-banner
 mon.zijieapi.com/*
+mongoosejs.net##a[href*="https://mobile.yangkeduo.com/"]
 moradu.com
 my.hellobar.com/*
 nexusmods.com###collections_alpha_banner_two
@@ -82,6 +85,8 @@ tieba.baidu.com###novel-ranking
 tjg.gzhuibei.com/*
 tongji.feibisi.com
 wp.qiye.qq.com
+www.baidu.com##div[tpl="app/rs"]
+www.baidu.com##div[tpl="recommend_list_san"]
 www.biquge.se##.box_con>.box_con
 www.douyu.com###js-player-guessgame
 www.gm016.com/js/*.htm
