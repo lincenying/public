@@ -21,6 +21,7 @@
 115.com##.feature-float
 4399.com##.top
 9damaogame.com##.md_ctrl
+@@www.douyin.com$document
 a.liuzhi520.com
 admin.qidian.qq.com
 ajax.lug.ustc.edu.cn/ajax/libs/jquery/3.4.1/jquery.min.js
@@ -29,6 +30,7 @@ api.pinterest.com/*
 arca.live###defaultImage
 arca.live##.ad
 assets.tumblr.com/client/prod/standalone/photoset-iframe/index.build.js
+atjvanavras.com/*
 bqq.gtimg.com
 bridalplums.com/*
 c.cnzz.com
@@ -60,6 +62,7 @@ js.tongji.linezing.com
 live.bilibili.com/activity/live-activity-battle/*
 live.bilibili.com/p/html/live-lottery/*
 macwk.cn###io-popup-tips
+mbd.baidu.com/ztbox*
 mcs.zijieapi.com/*
 midext.cdn.huya.com/*
 midext2.cdn.huya.com/*
@@ -76,14 +79,18 @@ nl.notice.iqiyi.com
 nl.rcd.iqiyi.com
 ping.chinaz.com###loc
 ping.chinaz.com##.topTsCenter
+slushycharacter.com/*
 static.hotjar.com/*
 static1.115cdn.net/static/public/*
+statwup.huya.com/*
 szcert.ebs.org.cn
 t7z.cupid.iqiyi.com
 tajs.qq.com
 tieba.baidu.com###novel-ranking
 tjg.gzhuibei.com/*
 tongji.feibisi.com
+touristbaconwrath.com/*
+tuqakbsucajc.com/*
 wp.qiye.qq.com
 www.baidu.com##div[tpl="app/rs"]
 www.baidu.com##div[tpl="recommend_list_san"]
