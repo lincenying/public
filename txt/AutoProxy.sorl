@@ -1,12 +1,13 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2025-10-19 10:07:15
+; Date: 2026-01-12 09:38:03
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; start
 
 *.1kdj5.app
 *.123av.me
+*.51acg.buzz
 *.65641.org
 *.9dmgamemod.com
 
@@ -111,6 +112,7 @@
 *.avatars.githubusercontent.com
 *.angusj.com
 *.ant.design
+*.antigravity.google
 *.b-cdn.net
 *.babeljs.io
 *.baidu-design.github.io
@@ -230,6 +232,7 @@ cdn.jsdelivr.net
 *.dxload.com
 *.dify.ai
 *.docker.io
+*.doppiocdn.org
 *.edgefonts.net
 *.editorjs.io
 *.eggjs.org
@@ -240,6 +243,7 @@ cdn.jsdelivr.net
 *.erog.fr
 *.eslint.org
 *.eyny.com
+*.element-plus.run
 *.facebook.com
 *.facebook.net
 *.faceks.com
@@ -271,6 +275,7 @@ cdn.jsdelivr.net
 *.ffmpeg.org
 *.fourpetal.com
 fastly.jsdelivr.net
+*.f95zone.to
 *.g.co
 *.gamebanana.com
 *.gamer-mods.ru
@@ -361,6 +366,7 @@ heimacl.top
 *.imagine.art
 *.ignimgs.com
 image.acg.lol
+*.imagecompressor.com
 *.jaredreich.com
 *.javbus.com
 *.javbus.info
@@ -391,6 +397,7 @@ image.acg.lol
 *.kxlme.com
 *.ktk123.com
 *.kanliao.buzz
+*.kemono.cr
 *.lanzouj.com
 *.laowang.vip
 *.lbry.tv
@@ -410,6 +417,7 @@ image.acg.lol
 *.lsmpic.com
 *.lululu.cc
 *.lightgalleryjs.com
+*.liantu.com
 *.macbed.com
 *.macdownload.org
 *.macloo.github.io
@@ -548,6 +556,7 @@ image.acg.lol
 *.pixeldrain.com
 *.page.link
 *.pstatic.net
+*.proton.me
 *.qpic.ws
 *.quasar.dev
 *.quilljs.com
@@ -575,6 +584,9 @@ image.acg.lol
 redux-toolkit.js.org
 *.rg-adguard.net
 *.ruyanhk.net
+*.reka-ui.com
+*.raycast.com
+*.recaptcha.net
 *.s-microsoft.com
 *.s.xxx
 *.s3.amazonaws.com
@@ -655,6 +667,8 @@ share4uspace.com
 *.skyearth8.xyz
 *.stackblitz.com
 *.ssllabs.com
+*.striiiipst.com
+*.squoosh.app
 *.t-nani.co.kr
 *.t.co
 *.t.me
@@ -709,6 +723,7 @@ share4uspace.com
 *.telemetr.io
 *.terabox.com
 *.tikhub.io
+*.tanstack.com
 *.u9un.com
 *.uawnqe.com
 *.ucdok.com
@@ -725,6 +740,7 @@ share4uspace.com
 *.uptodown.com
 *.uiverse.io
 *.unocss.dev
+unocss-cn.pages.dev +direct
 *.v-charts.js.org
 *.v2ex.com
 *.v2ray.com
@@ -775,6 +791,7 @@ www.jsdelivr.net
 *.x.com
 *.xixiranran.com
 *.xxxxx520.com
+*.xiaozhaolaila.com
 *.yadi.sk
 *.yandex.ru
 *.yarnpkg.com
