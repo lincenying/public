@@ -4,10 +4,10 @@ function removeElements(arr, elementsToRemove) {
     return arr.filter(item => !removeSet.has(item))
 }
 
-// eslint-disable-next-line unused-imports/no-unused-vars
+// eslint-disable-next-line ts/no-unused-vars
 function main(config) {
     config['proxy-groups'].push({
-        name: '🚀ChatGPT',
+        name: '💬ChatGPT',
         type: 'select',
         proxies: [
             '🇺🇸 美国01-Air',
@@ -29,11 +29,11 @@ function main(config) {
     ])
     config.rules = [
         ...tmpRules,
-        'DOMAIN-SUFFIX,auth0.openmai.com,🚀ChatGPT',
-        'DOMAIN-SUFFIX,platform.openai.com,🚀ChatGPT',
-        'DOMAIN-SUFFIX,chatgpt.com,🚀ChatGPT',
-        'DOMAIN-SUFFIX,openai.com,🚀ChatGPT',
-        'DOMAIN-SUFFIX,chat.openai.com,🚀ChatGPT',
+        'DOMAIN-SUFFIX,auth0.openmai.com,💬ChatGPT',
+        'DOMAIN-SUFFIX,platform.openai.com,💬ChatGPT',
+        'DOMAIN-SUFFIX,chatgpt.com,💬ChatGPT',
+        'DOMAIN-SUFFIX,openai.com,💬ChatGPT',
+        'DOMAIN-SUFFIX,chat.openai.com,💬ChatGPT',
         'DOMAIN-SUFFIX,google-analytics.com,🍃应用净化',
         'DOMAIN-SUFFIX,googletagmanager.com,🍃应用净化',
         'MATCH,🐟漏网之鱼',

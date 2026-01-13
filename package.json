@@ -16,10 +16,10 @@
     "moment": "^2.30.1"
   },
   "devDependencies": {
-    "@lincy/eslint-config": "^4.7.0",
-    "@types/node": "^20.19.28",
+    "@lincy/eslint-config": "^6.3.3",
+    "@types/node": "^25.0.7",
     "eslint": "^9.39.2",
-    "lint-staged": "^15.5.2",
+    "lint-staged": "^16.2.7",
     "shelljs": "^0.10.0",
     "simple-git-hooks": "^2.13.1",
     "typescript": "^5.9.3"
