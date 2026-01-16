@@ -83,7 +83,8 @@ function main(config) {
         'DOMAIN-SUFFIX,update.googleapis.com,🛑全球拦截',
         'DOMAIN-SUFFIX,tools.google.com,🛑全球拦截',
         'DOMAIN-SUFFIX,dl.google.com,🛑全球拦截',
-        'DOMAIN-SUFFIX,clients2.google.com,🛑全球拦截',
+        // google同步
+        // 'DOMAIN-SUFFIX,clients2.google.com,🛑全球拦截',
         ...tmpRules,
         'DOMAIN-SUFFIX,auth0.openmai.com,💬ChatGPT',
         'DOMAIN-SUFFIX,platform.openai.com,💬ChatGPT',
