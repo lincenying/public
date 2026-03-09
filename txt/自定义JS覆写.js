@@ -8,7 +8,7 @@ function removeElements(arr, elementsToRemove) {
 function main(config) {
     const isTwo = config.proxies.some(proxy => proxy.name.includes('账号'))
     const filterUSA = config.proxies.filter(proxy => proxy.name.includes('美国')).map(proxy => proxy.name)
-    const filterAsia = config.proxies.filter(proxy => proxy.name.includes('日本') || proxy.name.includes('香港') || proxy.name.includes('新加坡') || proxy.name.includes('台湾')).map(proxy => proxy.name)
+    const filterAsia = config.proxies.filter(proxy => proxy.name.includes('日本') || proxy.name.includes('香港') || proxy.name.includes('新加坡') || proxy.name.includes('台湾') || proxy.name.includes('越南')).map(proxy => proxy.name)
 
     const group = [
         '🚀节点选择',
@@ -59,7 +59,10 @@ function main(config) {
             ],
         })
 
-        config.rules = getRules()
+        config.rules = [
+            ...getRules(),
+            ...config.rules,
+        ]
     }
 
     config['proxy-groups'].push({
@@ -83,7 +86,6 @@ function main(config) {
         'DOMAIN-SUFFIX,update.googleapis.com,🛑全球拦截',
         'DOMAIN-SUFFIX,tools.google.com,🛑全球拦截',
         'DOMAIN-SUFFIX,dl.google.com,🛑全球拦截',
-        // google同步
         // 'DOMAIN-SUFFIX,clients2.google.com,🛑全球拦截',
         ...tmpRules,
         'DOMAIN-SUFFIX,auth0.openmai.com,💬ChatGPT',
@@ -93,6 +95,8 @@ function main(config) {
         'DOMAIN-SUFFIX,chat.openai.com,💬ChatGPT',
         'DOMAIN-SUFFIX,google-analytics.com,🍃应用净化',
         'DOMAIN-SUFFIX,googletagmanager.com,🍃应用净化',
+        'DOMAIN-SUFFIX,claude.com,🚀节点选择',
+        'DOMAIN-SUFFIX,claude.ai,🚀节点选择',
         'MATCH,🐟漏网之鱼',
     ]
     return config
