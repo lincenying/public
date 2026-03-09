@@ -59,10 +59,7 @@ function main(config) {
             ],
         })
 
-        config.rules = [
-            ...getRules(),
-            ...config.rules,
-        ]
+        config.rules = getRules()
     }
 
     config['proxy-groups'].push({
