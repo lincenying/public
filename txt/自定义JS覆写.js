@@ -55,6 +55,7 @@ function main(config) {
     }
 
     const tmpRules = removeElements([...config.rules], [
+        'GEOIP,CN,🚫不走代理',
         'MATCH,🚀默认节点',
     ])
 
@@ -68,6 +69,7 @@ function main(config) {
         'DOMAIN-SUFFIX,claude.ai,🚀默认节点',
         // 'DOMAIN-SUFFIX,clients2.google.com,REJECT',
         ...tmpRules,
+        'GEOIP,CN,🚫不走代理',
         'MATCH,🚀默认节点',
     ]
     return config
