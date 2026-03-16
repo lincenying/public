@@ -18,18 +18,9 @@
   "devDependencies": {
     "@lincy/eslint-config": "^6.5.2",
     "@types/node": "^25.5.0",
-    "eslint": "^9.39.4",
+    "eslint": "^10.0.3",
     "lint-staged": "^16.4.0",
     "shelljs": "^0.10.0",
-    "simple-git-hooks": "^2.13.1",
     "typescript": "^5.9.3"
-  },
-  "simple-git-hooks[-del]": {
-    "pre-commit": "npx lint-staged"
-  },
-  "lint-staged": {
-    "*.{ts,js}": [
-      "eslint --fix"
-    ]
   }
 }
