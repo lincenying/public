@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Checksum: RW/QudyvEPmfX2nVXTJ+AA
-! Version: 20260108173509
+! Version: 20260316152535
 ! Title: 自定义过滤规则
-! Last modified: 2026-01-08 17:35:09
+! Last modified: 2026-03-16 15:25:35
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/lincenying/public
 ! Licence: https://github.com/lincenying/public
@@ -22,6 +22,7 @@
 4399.com##.top
 9damaogame.com##.md_ctrl
 @@www.douyin.com$document
+@@||127.0.0.1^$document
 a.liuzhi520.com
 admin.qidian.qq.com
 ajax.lug.ustc.edu.cn/ajax/libs/jquery/3.4.1/jquery.min.js
@@ -48,6 +49,7 @@ euosicjxjv.com/*
 gitee.com##.ui.warning.message
 google-analytics.com
 hm.baidu.com
+https://attachments.f95zone.to/2021/08/1363839_f95-66.gif
 https://sdk.51.la/
 huya.com###pop-box-share
 huya.com###public-screen-ab
@@ -105,6 +107,7 @@ www.javbus2.com##.ad-table
 www.macz.com##.newest-recommend
 www.macz.com##.sec-imgs
 x6k.com##.index-ad
+zhcndoc.com##.swal2-container
 zt.huya.com/*
 
 ! end
