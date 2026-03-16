@@ -1,4 +1,4 @@
-/* eslint-disable unused-imports/no-unused-vars */
+/* eslint-disable ts/no-unused-vars */
 // https://mihomo.party/docs/guide/override/javascript
 
 function removeElements(arr, elementsToRemove) {
@@ -8,7 +8,8 @@ function removeElements(arr, elementsToRemove) {
 
 function main(config) {
     const isTwo = config.proxies.some(proxy => proxy.name.includes('账号'))
-    const filterAsia = config.proxies.filter(proxy => proxy.name.includes('日本') || proxy.name.includes('香港') || proxy.name.includes('新加坡') || proxy.name.includes('台湾') || proxy.name.includes('越南')).map(proxy => proxy.name)
+    // const filterAsia = config.proxies.filter(proxy => proxy.name.includes('日本') || proxy.name.includes('香港') || proxy.name.includes('新加坡') || proxy.name.includes('台湾') || proxy.name.includes('越南')).map(proxy => proxy.name)
+    const filterAsia = config.proxies.map(proxy => proxy.name)
 
     const group = [
         '🚀默认节点',
