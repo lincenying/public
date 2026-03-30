@@ -67,6 +67,8 @@ function main(config) {
         'DOMAIN-SUFFIX,googletagmanager.com,REJECT',
         'DOMAIN-SUFFIX,claude.com,🚀默认节点',
         'DOMAIN-SUFFIX,claude.ai,🚀默认节点',
+        'DOMAIN-SUFFIX,microsoftpersonalcontent.com,🚀默认节点',
+        'DOMAIN-SUFFIX,marketplace.visualstudio.com,🚀默认节点',
         // 'DOMAIN-SUFFIX,clients2.google.com,REJECT',
         ...tmpRules,
         'GEOIP,CN,🚫不走代理',
