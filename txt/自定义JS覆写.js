@@ -60,6 +60,7 @@ function main(config) {
     ])
 
     config.rules = [
+        'DOMAIN-SUFFIX,daocloud.vip,🚫不走代理',
         'DOMAIN-SUFFIX,update.googleapis.com,REJECT',
         'DOMAIN-SUFFIX,tools.google.com,REJECT',
         'DOMAIN-SUFFIX,dl.google.com,REJECT',
