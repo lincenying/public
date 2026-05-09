@@ -50,9 +50,9 @@ function main(config) {
                 'DIRECT',
             ],
         })
-
-        config.rules = getRules()
     }
+
+    config.rules = getRules()
 
     const tmpRules = removeElements([...config.rules], [
         'GEOIP,CN,🚫不走代理',
@@ -61,9 +61,11 @@ function main(config) {
 
     config.rules = [
         'DOMAIN-SUFFIX,daocloud.vip,🚫不走代理',
+        // 禁用chrome升级-开始
         'DOMAIN-SUFFIX,update.googleapis.com,REJECT',
         'DOMAIN-SUFFIX,tools.google.com,REJECT',
         'DOMAIN-SUFFIX,dl.google.com,REJECT',
+        // 禁用chrome升级-结束
         'DOMAIN-SUFFIX,google-analytics.com,REJECT',
         'DOMAIN-SUFFIX,googletagmanager.com,REJECT',
         'DOMAIN-SUFFIX,claude.com,🚀默认节点',
@@ -95,6 +97,7 @@ function getRules() {
     return [
         'DOMAIN-SUFFIX,smtp,🚫不走代理',
         'DOMAIN-KEYWORD,aria2,🚫不走代理',
+        // LocalAreaNetwork
         'DOMAIN-SUFFIX,acl4.ssr,🚫不走代理',
         'DOMAIN-SUFFIX,ip6-localhost,🚫不走代理',
         'DOMAIN-SUFFIX,ip6-loopback,🚫不走代理',
@@ -124,6 +127,9 @@ function getRules() {
         'DOMAIN-SUFFIX,routerlogin.com,🚫不走代理',
         'DOMAIN-SUFFIX,tendawifi.com,🚫不走代理',
         'DOMAIN-SUFFIX,zte.home,🚫不走代理',
+        'DOMAIN-SUFFIX,tplogin.cn,🚫不走代理',
+        'DOMAIN-SUFFIX,wifi.cmcc,🚫不走代理',
+        // UnBan
         'DOMAIN-SUFFIX,ol.epicgames.com,🚫不走代理',
         'DOMAIN-SUFFIX,dizhensubao.getui.com,🚫不走代理',
         'DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net,🚫不走代理',
@@ -140,6 +146,7 @@ function getRules() {
         'DOMAIN,tracking.miui.com,🚫不走代理',
         'DOMAIN,app.adjust.com,🚫不走代理',
         'DOMAIN,bdtj.tagtic.cn,🚫不走代理',
+        // BanAD
         'DOMAIN-KEYWORD,admarvel,REJECT',
         'DOMAIN-KEYWORD,admaster,REJECT',
         'DOMAIN-KEYWORD,adsage,REJECT',
@@ -207,7 +214,7 @@ function getRules() {
         'DOMAIN-SUFFIX,adfuture.cn,REJECT',
         'DOMAIN-SUFFIX,adhouyi.com,REJECT',
         'DOMAIN-SUFFIX,adinfuse.com,REJECT',
-        'DOMAIN-SUFFIX,a🚫不走代理s.com,REJECT',
+        'DOMAIN-SUFFIX,adirects.com,REJECT',
         'DOMAIN-SUFFIX,adjust.io,REJECT',
         'DOMAIN-SUFFIX,adkmob.com,REJECT',
         'DOMAIN-SUFFIX,adlive.cn,REJECT',
@@ -616,7 +623,7 @@ function getRules() {
         'DOMAIN-SUFFIX,criteo.net,REJECT',
         'DOMAIN-SUFFIX,csbew.com,REJECT',
         'DOMAIN-SUFFIX,demdex.net,REJECT',
-        'DOMAIN-SUFFIX,🚫不走代理rev.com,REJECT',
+        'DOMAIN-SUFFIX,directrev.com,REJECT',
         'DOMAIN-SUFFIX,dumedia.ru,REJECT',
         'DOMAIN-SUFFIX,effectivemeasure.com,REJECT',
         'DOMAIN-SUFFIX,effectivemeasure.net,REJECT',
@@ -737,6 +744,7 @@ function getRules() {
         'DOMAIN-SUFFIX,go.10086.cn,REJECT',
         'DOMAIN-SUFFIX,hivedata.cc,REJECT',
         'DOMAIN-SUFFIX,navi.gd.chinamobile.com,REJECT',
+        // BanProgramAD
         'DOMAIN-SUFFIX,a.youdao.com,REJECT',
         'DOMAIN-SUFFIX,adgeo.corp.163.com,REJECT',
         'DOMAIN-SUFFIX,analytics.126.net,REJECT',
@@ -829,7 +837,7 @@ function getRules() {
         'DOMAIN-SUFFIX,m.simba.taobao.com,REJECT',
         'DOMAIN-SUFFIX,pindao.huoban.taobao.com,REJECT',
         'DOMAIN-SUFFIX,re.m.taobao.com,REJECT',
-        'DOMAIN-SUFFIX,re🚫不走代理.simba.taobao.com,REJECT',
+        'DOMAIN-SUFFIX,redirect.simba.taobao.com,REJECT',
         'DOMAIN-SUFFIX,rj.m.taobao.com,REJECT',
         'DOMAIN-SUFFIX,sdkinit.taobao.com,REJECT',
         'DOMAIN-SUFFIX,show.re.taobao.com,REJECT',
@@ -3238,6 +3246,10 @@ function getRules() {
         'DOMAIN-SUFFIX,tenor.com,🚀默认节点',
         'DOMAIN-SUFFIX,aicoin.com,🚀默认节点',
         'DOMAIN-SUFFIX,chatgpt.com,🚀默认节点',
+        'DOMAIN-SUFFIX,xsub.icu,🚀默认节点',
+        'DOMAIN-SUFFIX,xsub.xyz,🚀默认节点',
+        'DOMAIN-SUFFIX,xsub.online,🚀默认节点',
+        // ChinaDomain
         'DOMAIN-SUFFIX,13th.tech,🚫不走代理',
         'DOMAIN-SUFFIX,423down.com,🚫不走代理',
         'DOMAIN-SUFFIX,bokecc.com,🚫不走代理',
@@ -3336,6 +3348,7 @@ function getRules() {
         'DOMAIN-SUFFIX,hao123img.com,🚫不走代理',
         'DOMAIN-SUFFIX,jomodns.com,🚫不走代理',
         'DOMAIN-SUFFIX,yunjiasu-cdn.net,🚫不走代理',
+        // ChinaMedia
         'DOMAIN-SUFFIX,acg.tv,🚫不走代理',
         'DOMAIN-SUFFIX,acgvideo.com,🚫不走代理',
         'DOMAIN-SUFFIX,b23.tv,🚫不走代理',
@@ -3853,6 +3866,7 @@ function getRules() {
         'DOMAIN-SUFFIX,zhimg.com,🚫不走代理',
         'DOMAIN-SUFFIX,zhongsou.com,🚫不走代理',
         'DOMAIN-SUFFIX,zhuihd.com,🚫不走代理',
+        // ChinaCompanyIp
         'IP-CIDR,8.128.0.0/10,🚫不走代理,no-resolve',
         'IP-CIDR,8.208.0.0/12,🚫不走代理,no-resolve',
         'IP-CIDR,14.1.112.0/22,🚫不走代理,no-resolve',
@@ -4074,5 +4088,11 @@ function getRules() {
         'IP-CIDR,101.198.128.0/18,🚫不走代理,no-resolve',
         'IP-CIDR,101.198.192.0/19,🚫不走代理,no-resolve',
         'IP-CIDR,101.199.196.0/22,🚫不走代理,no-resolve',
+    ]
+}
+
+function getBanAD() {
+    return [
+
     ]
 }
