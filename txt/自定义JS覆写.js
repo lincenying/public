@@ -99,8 +99,8 @@ function main(config) {
         // 禁用chrome升级-结束
         'DOMAIN-SUFFIX,google-analytics.com,REJECT',
         'DOMAIN-SUFFIX,googletagmanager.com,REJECT',
-        'DOMAIN-SUFFIX,claude.com,🚀默认节点',
-        'DOMAIN-SUFFIX,claude.ai,🚀默认节点',
+        'DOMAIN-SUFFIX,claude.com,🤖人工智能',
+        // 'DOMAIN-SUFFIX,claude.ai,🚀默认节点',
         'DOMAIN-SUFFIX,microsoftpersonalcontent.com,🚀默认节点',
         'DOMAIN-SUFFIX,visualstudio.com,🚀默认节点',
         'DOMAIN-SUFFIX,gallery.vsassets.io,🚀默认节点',
