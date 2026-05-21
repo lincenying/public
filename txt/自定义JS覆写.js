@@ -84,6 +84,7 @@ function main(config) {
         'DOMAIN-SUFFIX,gallery.vsassets.io,🚀默认节点',
         'DOMAIN-SUFFIX,gallerycdn.vsassets.io,🚀默认节点',
         'DOMAIN-SUFFIX,azure.com,🚀默认节点',
+        'DOMAIN-SUFFIX,cursor.com,🚀默认节点',
         // 'DOMAIN-SUFFIX,microsoft.com,🚀默认节点',
         // 'DOMAIN-SUFFIX,microsoft,🚀默认节点',
         // 'DOMAIN-SUFFIX,bboo.boo,🚀默认节点',
