@@ -69,6 +69,7 @@ function main(config) {
     config.rules = [
         'DOMAIN-SUFFIX,daocloud.vip,🚫不走代理',
         'DOMAIN-SUFFIX,gh-proxy.org,🚫不走代理',
+        'DOMAIN-SUFFIX,qoder.com,🚫不走代理',
         // 禁用chrome升级-开始
         'DOMAIN-SUFFIX,update.googleapis.com,REJECT',
         'DOMAIN-SUFFIX,tools.google.com,REJECT',
