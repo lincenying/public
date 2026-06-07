@@ -1,4 +1,3 @@
-/* eslint-disable ts/no-unused-vars */
 // https://mihomo.party/docs/guide/override/javascript
 
 function removeElements(arr, elementsToRemove) {
@@ -6,6 +5,7 @@ function removeElements(arr, elementsToRemove) {
     return arr.filter(item => !removeSet.has(item))
 }
 
+// eslint-disable-next-line unused-imports/no-unused-vars
 function main(config) {
     const isTwo = config.proxies.some(proxy => proxy.name.includes('账号'))
     // const filterAsia = config.proxies.filter(proxy => proxy.name.includes('日本') || proxy.name.includes('香港') || proxy.name.includes('新加坡') || proxy.name.includes('台湾') || proxy.name.includes('越南')).map(proxy => proxy.name)
@@ -90,7 +90,7 @@ function main(config) {
         // 'DOMAIN-SUFFIX,microsoft.com,🚀默认节点',
         // 'DOMAIN-SUFFIX,microsoft,🚀默认节点',
         // 'DOMAIN-SUFFIX,bboo.boo,🚀默认节点',
-        // 'DOMAIN-SUFFIX,gallery,🚀默认节点',
+        'DOMAIN-SUFFIX,ewrewej.la,🚫不走代理',
         // 'DOMAIN-SUFFIX,gallery,🚀默认节点',
         // 'DOMAIN-SUFFIX,gallery,🚀默认节点',
         // 'DOMAIN-SUFFIX,google,REJECT',
@@ -100,7 +100,7 @@ function main(config) {
         // 'DOMAIN-SUFFIX,google,REJECT',
         ...tmpRules,
         'GEOIP,CN,🚫不走代理',
-        'MATCH,🚀默认节点',
+        'MATCH,🚫不走代理',
     ]
     return config
 }
