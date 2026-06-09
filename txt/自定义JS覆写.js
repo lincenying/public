@@ -5,7 +5,7 @@ function removeElements(arr, elementsToRemove) {
     return arr.filter(item => !removeSet.has(item))
 }
 
-// eslint-disable-next-line unused-imports/no-unused-vars
+// eslint-disable-next-line ts/no-unused-vars
 function main(config) {
     const isTwo = config.proxies.some(proxy => proxy.name.includes('账号'))
     // const filterAsia = config.proxies.filter(proxy => proxy.name.includes('日本') || proxy.name.includes('香港') || proxy.name.includes('新加坡') || proxy.name.includes('台湾') || proxy.name.includes('越南')).map(proxy => proxy.name)
@@ -43,7 +43,7 @@ function main(config) {
         const honkongProxies = config.proxies.filter(proxy => proxy.name.includes('香港'))
         const honkongName = honkongProxies.map(proxy => proxy.name)
         const proxies = getTwoProxies()
-        const proxyGroups = proxies.map(item => item.name)
+        const proxyGroups = proxies.map(item => item.name).sort()
         config.proxies = [...config.proxies, ...proxies]
         config['proxy-groups'] = config['proxy-groups'].map((item) => {
             if (['🚀默认节点'].includes(item.name)) {
@@ -4934,7 +4934,7 @@ function getTwoProxies() {
             'client-fingerprint': 'chrome',
         },
         {
-            'name': 'YY_PLUS-中国香港-限时使用-优秀',
+            'name': 'YY_中国香港-限时使用-优秀-PLUS',
             'type': 'vless',
             'server': 'hkt1000.mei.wiki',
             'port': 25456,
@@ -4952,7 +4952,7 @@ function getTwoProxies() {
             'client-fingerprint': 'safari',
         },
         {
-            'name': 'YY_PLUS-越南河内-限时使用-优秀',
+            'name': 'YY_越南河内-限时使用-优秀-PLUS',
             'type': 'vless',
             'server': '103.69.189.147',
             'port': 25456,
@@ -4970,7 +4970,7 @@ function getTwoProxies() {
             'client-fingerprint': 'firefox',
         },
         {
-            'name': 'YY_PLUS-德国柏林SP',
+            'name': 'YY_德国柏林SP-PLUS',
             'type': 'vless',
             'server': '37.114.48.119',
             'port': 25456,
@@ -4988,7 +4988,7 @@ function getTwoProxies() {
             'client-fingerprint': 'safari',
         },
         {
-            'name': 'YY_PLUS-日本Y_1号',
+            'name': 'YY_日本Y_1号-PLUS',
             'type': 'vless',
             'server': '38.207.137.144',
             'port': 25456,
@@ -5006,7 +5006,7 @@ function getTwoProxies() {
             'client-fingerprint': 'safari',
         },
         {
-            'name': 'YY_PLUS-日本Y_2号',
+            'name': 'YY_日本Y_2号-PLUS',
             'type': 'vless',
             'server': '150.251.158.18',
             'port': 25456,
@@ -5024,7 +5024,7 @@ function getTwoProxies() {
             'client-fingerprint': 'firefox',
         },
         {
-            'name': 'YY_PLUS-日本Y_3号',
+            'name': 'YY_日本Y_3号-PLUS',
             'type': 'vless',
             'server': '23.175.24.29',
             'port': 25456,
@@ -5042,7 +5042,7 @@ function getTwoProxies() {
             'client-fingerprint': 'safari',
         },
         {
-            'name': 'YY_PLUS-韩国Y',
+            'name': 'YY_韩国Y-PLUS',
             'type': 'vless',
             'server': '158.179.160.211',
             'port': 25456,
