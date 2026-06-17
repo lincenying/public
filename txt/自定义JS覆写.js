@@ -97,7 +97,7 @@ function main(config) {
         // 'DOMAIN-SUFFIX,bboo.boo,🚀默认节点',
         'DOMAIN-SUFFIX,ewrewej.la,🚫不走代理',
         // 'DOMAIN-SUFFIX,gallery,🚀默认节点',
-        'DOMAIN-SUFFIX,douyin.com,🚀默认节点',
+        // 'DOMAIN-SUFFIX,douyin.com,🚀默认节点',
         // 'DOMAIN-SUFFIX,google,REJECT',
         // 'DOMAIN-SUFFIX,google,REJECT',
         // 'DOMAIN-SUFFIX,google,REJECT',
