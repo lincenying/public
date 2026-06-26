@@ -40,22 +40,23 @@ function main(config) {
         })
     }
     else {
-        const honkongProxies = config.proxies.filter(proxy => proxy.name.includes('香港'))
-        const honkongName = honkongProxies.map(proxy => proxy.name)
-        const proxies = getTwoProxies()
-        const proxyGroups = proxies.map(item => item.name).sort()
-        config.proxies = [...config.proxies, ...proxies]
+        const defaultProxies = [...config.proxies]
+        const recProxies = config.proxies.filter(proxy => proxy.name.includes('日本') || proxy.name.includes('香港') || proxy.name.includes('新加坡') || proxy.name.includes('台湾') || proxy.name.includes('越南'))
+        const recProxiesName = recProxies.map(proxy => proxy.name)
+        const twoProxies = getTwoProxies()
+        const twoProxiesName = twoProxies.map(item => item.name).sort()
+        config.proxies = [...config.proxies, ...twoProxies]
         config['proxy-groups'] = config['proxy-groups'].map((item) => {
             if (['🚀默认节点'].includes(item.name)) {
                 return {
                     ...item,
-                    proxies: [...proxyGroups, ...item.proxies],
+                    proxies: [...twoProxiesName],
                 }
             }
             if (['🤖人工智能'].includes(item.name)) {
                 return {
                     ...item,
-                    proxies: [...honkongName, ...item.proxies],
+                    proxies: [...recProxiesName],
                 }
             }
             return item
