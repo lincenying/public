@@ -72,7 +72,6 @@ function main(config) {
         'DOMAIN-SUFFIX,gh-proxy.org,🚫不走代理',
         'DOMAIN-SUFFIX,qoder.com,🚫不走代理',
         'DOMAIN-SUFFIX,qoder.sh,🚫不走代理',
-        // 'DOMAIN-SUFFIX,z.ai,🚫不走代理',
         // 禁用chrome升级-开始
         'DOMAIN-SUFFIX,update.googleapis.com,REJECT',
         'DOMAIN-SUFFIX,tools.google.com,REJECT',
@@ -104,12 +103,12 @@ function main(config) {
         // 'DOMAIN-SUFFIX,google,REJECT',
         // 'DOMAIN-SUFFIX,google,REJECT',
         // 'DOMAIN-SUFFIX,google,REJECT',
-        ...tmpRules,
         'GEOIP,HK,🚫不走代理',
         'GEOIP,TW,🚫不走代理',
         'GEOIP,MO,🚫不走代理',
         'GEOIP,SG,🚫不走代理',
         'GEOIP,CN,🚫不走代理',
+        ...tmpRules,
         'MATCH,🚀默认节点',
     ]
     return config
