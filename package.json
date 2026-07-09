@@ -6,7 +6,6 @@
   "author": "lincenying &lt;lincenying@qq.com&gt;",
   "license": "MIT",
   "scripts": {
-    "postinstall[-del]": "sh simple-git-hooks.sh",
     "tsc": "tsc",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
@@ -16,11 +15,10 @@
     "moment": "^2.30.1"
   },
   "devDependencies": {
-    "@lincy/eslint-config": "^6.5.2",
-    "@types/node": "^25.5.0",
-    "eslint": "^10.0.3",
-    "lint-staged": "^16.4.0",
+    "@lincy/eslint-config": "^7.2.0",
+    "@types/node": "^25.9.4",
+    "eslint": "^10.5.0",
     "shelljs": "^0.10.0",
-    "typescript": "^5.9.3"
+    "typescript": "^6.0.3"
   }
 }
