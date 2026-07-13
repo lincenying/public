@@ -109,5 +109,6 @@ www.macz.com##.sec-imgs
 x6k.com##.index-ad
 zhcndoc.com##.swal2-container
 zt.huya.com/*
+www.baidu.com##DIV[class="result-op c-container new-pmd"]
 
 ! end

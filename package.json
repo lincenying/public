@@ -16,8 +16,8 @@
   },
   "devDependencies": {
     "@lincy/eslint-config": "^7.2.0",
-    "@types/node": "^25.9.4",
-    "eslint": "^10.5.0",
+    "@types/node": "^25.9.5",
+    "eslint": "^10.7.0",
     "shelljs": "^0.10.0",
     "typescript": "^6.0.3"
   }
