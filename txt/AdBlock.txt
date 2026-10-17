@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Checksum: RW/QudyvEPmfX2nVXTJ+AA
-! Version: 20260317145706
+! Version: 20261017172020
 ! Title: 自定义过滤规则
-! Last modified: 2026-03-17 14:57:06
+! Last modified: 2026-10-17 17:20:20
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/lincenying/public
 ! Licence: https://github.com/lincenying/public
@@ -11,6 +11,7 @@
 ! start
 
 *.addthis.com
+*.cloudflareinsights.com
 */buy/ad/*
 */wp-content/themes/modown/static/js/chinese.js
 .adskeeper.co.uk
@@ -73,6 +74,7 @@ mon.zijieapi.com/*
 mongoosejs.net##a[href*="https://mobile.yangkeduo.com/"]
 moradu.com
 my.hellobar.com/*
+nervousstroke.com
 nexusmods.com###collections_alpha_banner_two
 nexusmods.com##.ads
 nexusmods.com##.banner.alpha
@@ -93,7 +95,9 @@ tjg.gzhuibei.com/*
 tongji.feibisi.com
 touristbaconwrath.com/*
 tuqakbsucajc.com/*
+u9a9.com##DIV[class="row ad"]
 wp.qiye.qq.com
+www.baidu.com##DIV[class="result-op c-container new-pmd"]
 www.baidu.com##div[tpl="app/rs"]
 www.baidu.com##div[tpl="recommend_list_san"]
 www.biquge.se##.box_con>.box_con
@@ -104,11 +108,11 @@ www.huya.com##div.r-u8s1d.css-1dbjc4n
 www.huya.com##div[data-cmid="1"]
 www.javbus.com##.ad-table
 www.javbus2.com##.ad-table
+www.longwear.pro
 www.macz.com##.newest-recommend
 www.macz.com##.sec-imgs
 x6k.com##.index-ad
 zhcndoc.com##.swal2-container
 zt.huya.com/*
-www.baidu.com##DIV[class="result-op c-container new-pmd"]
 
 ! end
