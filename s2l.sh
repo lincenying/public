@@ -1,1 +1,1 @@
-scp root@www.mmxiaowu.com:/home/web/static/script.js ./txt/script.js
+scp root@www.mmxiaowu.com:/data/docker-compose/web/static/script.js ./txt/script.js

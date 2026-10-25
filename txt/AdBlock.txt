@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Checksum: RW/QudyvEPmfX2nVXTJ+AA
-! Version: 20261017172020
+! Version: 20261025210120
 ! Title: 自定义过滤规则
-! Last modified: 2026-10-17 17:20:20
+! Last modified: 2026-10-25 21:01:20
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/lincenying/public
 ! Licence: https://github.com/lincenying/public
@@ -25,6 +25,7 @@
 @@www.douyin.com$document
 @@||127.0.0.1^$document
 a.liuzhi520.com
+acztihozztf.in
 admin.qidian.qq.com
 ajax.lug.ustc.edu.cn/ajax/libs/jquery/3.4.1/jquery.min.js
 api.feelgood.cn/*
@@ -59,6 +60,7 @@ huya.com##.entrance-expand
 huya.com##.jump-to-phone
 huya.com##.jump-to-phone-bd
 huya.com##.match_nav
+idlerelief.com
 ig.sc-bjx.com
 increasinglycockroachpolicy.com
 js.tongji.linezing.com
@@ -81,6 +83,7 @@ nexusmods.com##.banner.alpha
 nexusmods.com##.default-creative-iframe
 nl.notice.iqiyi.com
 nl.rcd.iqiyi.com
+pfoobfvapw.in
 ping.chinaz.com###loc
 ping.chinaz.com##.topTsCenter
 slushycharacter.com/*
@@ -96,12 +99,14 @@ tongji.feibisi.com
 touristbaconwrath.com/*
 tuqakbsucajc.com/*
 u9a9.com##DIV[class="row ad"]
+unfortunateheart.com
 wp.qiye.qq.com
 www.baidu.com##DIV[class="result-op c-container new-pmd"]
 www.baidu.com##div[tpl="app/rs"]
 www.baidu.com##div[tpl="recommend_list_san"]
 www.biquge.se##.box_con>.box_con
 www.douyu.com###js-player-guessgame
+www.farflungeffective.com
 www.gm016.com/js/*.htm
 www.googletagmanager.com/*
 www.huya.com##div.r-u8s1d.css-1dbjc4n
@@ -112,6 +117,7 @@ www.longwear.pro
 www.macz.com##.newest-recommend
 www.macz.com##.sec-imgs
 x6k.com##.index-ad
+zaxortpispal.in
 zhcndoc.com##.swal2-container
 zt.huya.com/*
 
